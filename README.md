@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO
+# PROJETO CONTROLE DE ESTOQUE
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO DE DESENVOLVIMENTO DE APLICAÇÃO WEB - FRONT END`
 
-`SEMESTRE`
+`PRIMEIRO SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto de controle de estoque tem como intuito controlar o estoque das empresas em geral, com ações de lançar entradas, saídas e registrar estoque atual, minimo e maximo, tendo em vista o controle da quantidade de peças em estoque e a quantidade necessária para compra.
 
 ## Integrantes
 
