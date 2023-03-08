@@ -10,14 +10,14 @@ O projeto de controle de estoque tem como intuito controlar o estoque das empres
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Erica Lucia dos Santos
 * Marco Azevedo
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Anderson Nascimetno Souza
+* Bianca Nicoly Dias Matos
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marcos Andre Silveira Kutova
 
 ## Instruções de utilização
 
