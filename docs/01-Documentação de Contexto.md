@@ -14,10 +14,6 @@ A fim de atender às demandas dos clientes on-line, é necessário ter uma visib
 
 O aumento das vendas online tem um grande impacto no controle de estoque das empresas, exigindo investimentos em tecnologia de gerenciamento de estoque e processos bem estabelecidos para garantir que o estoque físico e virtual estejam integrados e atualizados em tempo real, por fim, torna-se necessário o monitoramento de perto do estoque de seus produtos para garantir que sempre tenham produtos suficientes para atender à demanda dos clientes on-line, ou seja, prever a demanda com base no histórico de vendas, promoções e sazonalidade, e ajustar os níveis de estoque de acordo.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -28,16 +24,17 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 O objetivo geral deste projeto é desenvolver um software que permite que a empresa acompanhe a quantidade de produtos em estoque, saídas e entradas de produtos, histórico de movimentação do estoque, entre outras informações além de garantir que haja disponibilidade de produtos suficiente para atender à demanda dos clientes. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Especificamente para o controle das entradas, saídas, estoque minimo e máximo.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A pandemia de COVID-19, levou muitas pessoas a fazerem compras online, o que não parou no pós pandemia, onde lojas fisicas continuam realizando vendas online.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+De acordo com um relatório da Adobe Digital Economy Index de janeiro de 2021, as vendas online nos Estados Unidos cresceram 32,4% em relação ao ano anterior, totalizando US $ 791,7 bilhões em 2020. Sendo assim, O controle de estoque é extremamente importante para o sucesso de qualquer negócio que lida com a venda de produtos físicos. Ele envolve monitorar e gerenciar os níveis de estoque para garantir que a empresa tenha sempre a quantidade adequada de produtos disponíveis para atender à demanda dos clientes.
+
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
