@@ -41,12 +41,12 @@ De acordo com um relatório da Adobe Digital Economy Index de janeiro de 2021, a
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Empresas que vendem produtos físicos: O sistema de gerenciamento de estoque é especialmente útil para empresas que vendem produtos físicos, como varejistas, distribuidores, fabricantes e atacadistas.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Pequenas e médias empresas: As pequenas e médias empresas geralmente têm menos recursos para investir em tecnologia e podem se beneficiar significativamente de um sistema de gerenciamento de estoque automatizado que ajuda a economizar tempo e dinheiro.
 
-R: App, página destinada aos pequenos empresários carentes de uma organização de controle dos seus produtos estocados. Otimizar e categorizar o fluxo de produtos.
+Empresas em crescimento: Empresas em crescimento geralmente enfrentam desafios no gerenciamento de estoque, pois lidam com um aumento na demanda e na complexidade da cadeia de suprimentos. Um sistema de gerenciamento de estoque pode ajudar essas empresas a gerenciar melhor suas operações.
+
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
