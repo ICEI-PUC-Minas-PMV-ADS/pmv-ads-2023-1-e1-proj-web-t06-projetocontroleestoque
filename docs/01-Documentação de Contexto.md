@@ -41,11 +41,7 @@ De acordo com um relatório da Adobe Digital Economy Index de janeiro de 2021, a
 
 ## Público-Alvo
 
-Empresas que vendem produtos físicos: O sistema de gerenciamento de estoque é especialmente útil para empresas que vendem produtos físicos, como varejistas, distribuidores, fabricantes e atacadistas.
-
-Pequenas e médias empresas: As pequenas e médias empresas geralmente têm menos recursos para investir em tecnologia e podem se beneficiar significativamente de um sistema de gerenciamento de estoque automatizado que ajuda a economizar tempo e dinheiro.
-
-Empresas em crescimento: Empresas em crescimento geralmente enfrentam desafios no gerenciamento de estoque, pois lidam com um aumento na demanda e na complexidade da cadeia de suprimentos. Um sistema de gerenciamento de estoque pode ajudar essas empresas a gerenciar melhor suas operações.
+Lojistas que vendem produtos físicos em pequenas e médias empresas de forma online e/ou presencial.
 
 
 > **Links Úteis**:
