@@ -16,7 +16,7 @@ A fim de atender às demandas dos clientes ~~on-line~~, é necessário ter uma v
 
 O aumento das vendas online tem um grande impacto no controle de estoque das empresas, exigindo investimentos em tecnologia de gerenciamento de estoque e processos bem estabelecidos para garantir que o estoque físico e virtual estejam integrados e atualizados em tempo real, por fim, torna-se necessário o monitoramento de perto do estoque de seus produtos para garantir que sempre tenham produtos suficientes para atender à demanda dos clientes on-line, ou seja, prever a demanda com base no histórico de vendas, promoções e sazonalidade, e ajustar os níveis de estoque de acordo.
 
-_Nesse contexto, para os empreendedores de pequenos negócios continuarem no mercado cada vez mais competitivo, torna-se necessário gerenciar a organização do estoque da melhor maneira, e um dos principais recursos para esse público é através de um sistema simmples e intuitivo._
+_Nesse contexto, para os empreendedores de pequenos negócios continuarem no mercado cada vez mais competitivo, torna-se necessário gerenciar a organização do estoque da melhor maneira, e um dos principais recursos para esse público é através de um sistema simples e intuitivo._
 
 Nessa matéria de 26/11/2021 da Infovarejo, ficam nítidos os problemas que se podem ter em um estoque desrganizado.
 https://www.infovarejo.com.br/10-causas-problemas-estoque/
