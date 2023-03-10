@@ -48,7 +48,10 @@ De acordo com um relatório da Adobe Digital Economy Index de janeiro de 2021, a
 
 ## Público-Alvo
 
-Lojistas que vendem produtos físicos em pequenas e médias empresas de forma online e/ou presencial.
+Embora existirem vários perfis de empreendedores de calçados de diferentes portes de negócios, o foco deste trabalho está no público de empreendedores de pequenos negócios de calçados que tem a necessidade de controlar o seu estoque e ter informações necessárias para tomada de decisões na gestão do seu empreendimento. 
+
+Desta forma, estabeleceu-se como público-alvo desta solução empreendedores pequenos negócios varejista de calçados, homens e mulheres, independente da idade, que se encontram com dificuldade de controlar seu estoque e precisam atualizá-lo constantimente para pontencializar mais sua lucratividade, tendo mais informações da sua empresa através de um sistema simples e intuitivo.
+
 
 
 > **Links Úteis**:
