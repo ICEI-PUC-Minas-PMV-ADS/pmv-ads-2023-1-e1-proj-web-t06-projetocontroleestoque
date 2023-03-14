@@ -18,7 +18,7 @@ O aumento das vendas online tem um grande impacto no controle de estoque das emp
 
 _Nesse contexto, para os empreendedores de pequenos negócios continuarem no mercado cada vez mais competitivo, torna-se necessário gerenciar a organização do estoque da melhor maneira, e um dos principais recursos para esse público é através de um sistema simples e intuitivo._
 
-Nessa matéria de 26/11/2021 da Infovarejo, ficam nítidos os problemas que se podem ter em um estoque desrganizado.
+Nessa matéria de 26/11/2021 da Infovarejo, ficam nítidos os problemas que se podem ter em um estoque desorganizado.
 https://www.infovarejo.com.br/10-causas-problemas-estoque/
 
 
