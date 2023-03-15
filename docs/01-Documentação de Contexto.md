@@ -8,8 +8,6 @@ As tecnologias também permitem que as empresas coletem e analisem dados sobre o
 
 Este cenário tem um impacto significativo no controle do estoque das empresas. Com o comércio eletrônico, as empresas precisam gerenciar não apenas o estoque físico em suas lojas ou armazéns, mas também o estoque virtual em seus sites de comércio eletrônico.
 
-## Problema
-
 _A gestão de estoque é um tema bastante relevante para todas organizações, porém ainda pouco adotado pelas micro e pequenas empresas. Uma boa gestão de estoque passa por equilibrar compras, armazenagem e entregas, pode significar a diferença entre o lucro e o prejuízo de um negócio. Apesar disso, pequenos empreendimentos tem dificuldades em utilizar sistemas de gestão integrado, por falta de recursos para adquirir ou por dificuldade de utilizar sistemas digitais._
 
 A fim de atender às demandas dos clientes ~~on-line~~, é necessário ter uma visibilidade completa do estoque de produtos disponíveis em tempo real, isso exige que as empresas invistam em tecnologia de gerenciamento de estoque que permita rastrear o movimento do estoque e disponibilidade dos produtos em tempo real, alem de garantir que o estoque físico esteja integrado com o estoque virtual para evitar vendas excessivas ou insuficientes de produtos. Isso significa que as empresas precisam ter processos de gerenciamento de estoque bem estabelecidos que permitam que os funcionários atualizem o estoque em tempo real em todas as plataformas de vendas.
@@ -17,6 +15,10 @@ A fim de atender às demandas dos clientes ~~on-line~~, é necessário ter uma v
 O aumento das vendas online tem um grande impacto no controle de estoque das empresas, exigindo investimentos em tecnologia de gerenciamento de estoque e processos bem estabelecidos para garantir que o estoque físico e virtual estejam integrados e atualizados em tempo real, por fim, torna-se necessário o monitoramento de perto do estoque de seus produtos para garantir que sempre tenham produtos suficientes para atender à demanda dos clientes on-line, ou seja, prever a demanda com base no histórico de vendas, promoções e sazonalidade, e ajustar os níveis de estoque de acordo.
 
 _Nesse contexto, para os empreendedores de pequenos negócios continuarem no mercado cada vez mais competitivo, torna-se necessário gerenciar a organização do estoque da melhor maneira, e um dos principais recursos para esse público é através de um sistema simples e intuitivo._
+
+## Problema
+
+Muitos empreendedores de pequenos negócios ainda não conseguem realizar uma boa gestão de seus estoques.
 
 Nessa matéria de 26/11/2021 da Infovarejo, ficam nítidos os problemas que se podem ter em um estoque desorganizado.
 https://www.infovarejo.com.br/10-causas-problemas-estoque/
@@ -29,9 +31,12 @@ https://www.infovarejo.com.br/10-causas-problemas-estoque/
 
 ## Objetivos
 
-O objetivo geral deste projeto é desenvolver um software que permite que a empresa acompanhe a quantidade de produtos em estoque, saídas e entradas de produtos, histórico de movimentação do estoque, entre outras informações além de garantir que haja disponibilidade de produtos suficiente para atender à demanda dos clientes. 
+O objetivo geral deste projeto é desenvolver um software que permita que a empresa gerencie o seu estoque. 
 
-Especificamente para o controle das entradas, saídas, estoque minimo e máximo.
+**Objetivos específicos:**
+- Permitir que a empresa acompanhe a quantidade de produtos em estoque, garantindo que haja disponibilidade de produtos suficiente para atender à demanda dos clientes.
+- Visualizar histórico de movimentação do estoque, saídas e entradas de produtos. 
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
