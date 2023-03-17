@@ -31,7 +31,7 @@ https://www.infovarejo.com.br/10-causas-problemas-estoque/
 
 ## Objetivos
 
-O objetivo geral deste projeto é desenvolver um software que permita que a empresa gerencie o seu estoque. 
+O objetivo geral deste projeto é desenvolver um software que permita que empreendedores no setor calçadista gerenciem o seu estoque 
 
 **Objetivos específicos:**
 - Permitir que a empresa acompanhe a quantidade de produtos em estoque, garantindo que haja disponibilidade de produtos suficiente para atender à demanda dos clientes.
@@ -53,9 +53,9 @@ De acordo com um relatório da Adobe Digital Economy Index de janeiro de 2021, a
 
 ## Público-Alvo
 
-Embora existirem vários perfis de empreendedores de calçados de diferentes portes de negócios, o foco deste trabalho está no público de empreendedores de pequenos negócios de calçados que tem a necessidade de controlar o seu estoque e ter informações necessárias para tomada de decisões na gestão do seu empreendimento. 
+Embora existam vários perfis de empreendedores de diferentes portes, o foco deste trabalho está em empreendedores de pequenos negócios de calçados que tenham a necessidade de controlar o seu estoque e ter informações necessárias para tomada de decisões na gestão do seu empreendimento. 
 
-Desta forma, estabeleceu-se como público-alvo desta solução empreendedores pequenos negócios varejista de calçados, homens e mulheres, independente da idade, que se encontram com dificuldade de controlar seu estoque e precisam atualizá-lo constantimente para pontencializar mais sua lucratividade, tendo mais informações da sua empresa através de um sistema simples e intuitivo.
+Desta forma, estabeleceu-se como público-alvo desta solução, pequenos empreendedores calçadistas que se encontram com dificuldade de controlar seu estoque e precisam atualizá-lo constantemente para pontencializar sua lucratividade, tendo mais informações da sua empresa através de um sistema simples e intuitivo.
 
 
 
