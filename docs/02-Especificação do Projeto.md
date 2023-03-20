@@ -11,11 +11,14 @@ R: O controle de estoque é extremamente importante para o sucesso de qualquer n
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Bruno, tem 40 anos, é um empresário que possui uma microempresa de calçados em uma Salvador-Ba. Ele começou seu negócio há alguns anos, e, desde então, tem enfrentado desafios para gerenciar seu estoque de forma eficiente. Como resultado, muitas vezes ele acaba tendo dificuldades em garantir que seus clientes encontrem os produtos que precisam.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Bruno é uma pessoa muito dedicada ao seu trabalho e tem um grande conhecimento sobre a indústria de calçados. No entanto, ele não tem experiência em gerenciamento de estoque e acaba tendo dificuldades para controlar as entradas e saídas de seus produtos. Ele tem consciência de que é preciso implementar um sistema de gestão de estoque mais eficiente para evitar perdas e melhorar o atendimento aos clientes.
 
-R: Donos de lojas e estabelecimentos comerciais no geral, compram e vendem produtos que são adquiridos por consumidores finais ou lojas de varejo, online e/ou presencialmente.
+Bruno está buscando um software que possa ajudá-lo a gerenciar seu estoque de forma mais eficiente. Ele precisa de um sistema fácil de usar e que possa fornecer informações precisas e em tempo real sobre a disponibilidade de seus produtos. Ele gostaria de um sistema que pudesse ajudá-lo a realizar inventários mais rapidamente e que pudesse fornecer informações sobre o desempenho de vendas de seus produtos.
+
+Nos momentos livres, Bruno gosta de assistir jogos de futebol e passar tempo com sua família e amigos. Ele acredita que o sucesso de seu negócio depende da capacidade de gerenciar eficientemente seu estoque e atender às necessidades de seus clientes.
+
 
 
 > **Links Úteis**:
