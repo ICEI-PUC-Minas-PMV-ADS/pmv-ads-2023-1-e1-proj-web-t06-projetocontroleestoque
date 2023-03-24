@@ -35,6 +35,7 @@ A falta de gestão de estoque gera prejuízos financeiros que podem variar signi
 MONEY,Forbs: magazine luiza quer reduzir estoque apos surpresa negativa no trimestre. forbs.com.br, 2021. Disponível em: (https://forbes.com.br/forbes-money/2021/11/magazine-luiza-quer-reduzir-estoque-apos-surpresa-negativa-no-trimestre/). Acesso em: 24/03/2023  
 
 Nessa matéria de 26/11/2021 da Infovarejo, ficam nítidos os problemas que se podem ter em um estoque sem gestão.
+
 BADARÓ, Adilson: 10 causas de problemas no seu estoque. infovarejo.com.br, 2021. Disponível em: https://www.infovarejo.com.br/10-causas-problemas-estoque/. Acesso em: 24/03/2023
 
 
