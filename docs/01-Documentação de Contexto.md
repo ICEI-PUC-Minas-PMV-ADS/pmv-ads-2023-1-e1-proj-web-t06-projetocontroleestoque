@@ -49,7 +49,7 @@ De acordo com um relatório da Adobe Digital Economy Index de janeiro de 2021, a
 
 sendo assim a falta de gestão de estoque gera prejuízos financeiros que podem variar significativamente de acordo com a indústria e o tamanho da empresa, um dado que ilustra o impacto financeiro da gestão inadequada de estoque é a obsolescência, de acordo com um estudo da Inc., a obsolescência pode representar entre 2% e 15% do estoque de uma empresa. Além disso, um relatório da Forbes mostrou que a Best Buy perdeu cerca de US $ 1,7 bilhão em 2012 devido à obsolescência do estoque.
 
-Escrito por Cláudio Neto | 02/01/2023. O combate às perdas de estoque é essencial para a loja. 2023. Disponível em: https://www.infovarejo.com.br/evitar-perdas-de-estoque/
+Artigo publicado originalmente em maio de 2018 e atualizado em março de 2020. Principais problemas do estoque parado. 2020. Disponível em: (https://www.traycorp.com.br/o-guia-completo-de-como-acabar-de-vez-com-o-estoque-parado/)
 
 
 > **Links Úteis**:
