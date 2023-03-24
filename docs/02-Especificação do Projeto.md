@@ -11,7 +11,7 @@ R: O controle de estoque é extremamente importante para o sucesso de qualquer n
 
 ## Personas
 
-Bruno, tem 40 anos, é um empresário que possui uma microempresa de calçados em uma Salvador-Ba. Ele começou seu negócio há alguns anos, e, desde então, tem enfrentado desafios para gerenciar seu estoque de forma eficiente. Como resultado, muitas vezes ele acaba tendo dificuldades em garantir que seus clientes encontrem os produtos que precisam.
+Bruno Almeida, tem 40 anos, é um empresário que possui uma microempresa de calçados em uma Salvador-Ba. Ele começou seu negócio há alguns anos, e, desde então, tem enfrentado desafios para gerenciar seu estoque de forma eficiente. Como resultado, muitas vezes ele acaba tendo dificuldades em garantir que seus clientes encontrem os produtos que precisam.
 
 Bruno é uma pessoa muito dedicada ao seu trabalho e tem um grande conhecimento sobre a indústria de calçados. No entanto, ele não tem experiência em gerenciamento de estoque e acaba tendo dificuldades para controlar as entradas e saídas de seus produtos. Ele tem consciência de que é preciso implementar um sistema de gestão de estoque mais eficiente para evitar perdas e melhorar o atendimento aos clientes.
 
