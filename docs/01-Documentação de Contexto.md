@@ -10,7 +10,7 @@ Este cenário tem um impacto significativo no controle do estoque das empresas. 
 
 _A gestão de estoque é um tema bastante relevante para todas organizações, porém ainda pouco adotado pelas micro e pequenas empresas. Uma boa gestão de estoque passa por equilibrar compras, armazenagem e entregas, pode significar a diferença entre o lucro e o prejuízo de um negócio. Apesar disso, pequenos empreendimentos tem dificuldades em utilizar sistemas de gestão integrado, por falta de recursos para adquirir ou por dificuldade de utilizar sistemas digitais._
 
-A fim de atender às demandas dos clientes ~~on-line~~, é necessário ter uma visibilidade completa do estoque de produtos disponíveis em tempo real, isso exige que as empresas invistam em tecnologia de gerenciamento de estoque que permita rastrear o movimento do estoque e disponibilidade dos produtos em tempo real, alem de garantir que o estoque físico esteja integrado com o estoque virtual para evitar vendas excessivas ou insuficientes de produtos. Isso significa que as empresas precisam ter processos de gerenciamento de estoque bem estabelecidos que permitam que os funcionários atualizem o estoque em tempo real em todas as plataformas de vendas.
+A fim de atender às demandas dos clientes, é necessário ter uma visibilidade completa do estoque de produtos disponíveis em tempo real, isso exige que as empresas invistam em tecnologia de gerenciamento de estoque que permita rastrear o movimento do estoque e disponibilidade dos produtos em tempo real, alem de garantir que o estoque físico esteja integrado com o estoque virtual para evitar vendas excessivas ou insuficientes de produtos. Isso significa que as empresas precisam ter processos de gerenciamento de estoque bem estabelecidos que permitam que os funcionários atualizem o estoque em tempo real em todas as plataformas de vendas.
 
 O aumento das vendas online tem um grande impacto no controle de estoque das empresas, exigindo investimentos em tecnologia de gerenciamento de estoque e processos bem estabelecidos para garantir que o estoque físico e virtual estejam integrados e atualizados em tempo real, por fim, torna-se necessário o monitoramento de perto do estoque de seus produtos para garantir que sempre tenham produtos suficientes para atender à demanda dos clientes on-line, ou seja, prever a demanda com base no histórico de vendas, promoções e sazonalidade, e ajustar os níveis de estoque de acordo.
 
@@ -20,15 +20,6 @@ _Nesse contexto, para os empreendedores de pequenos negócios continuarem no mer
 
 Muitos empreendedores de pequenos negócios ainda não conseguem realizar uma boa gestão de seus estoques.
 
-Nessa matéria de 26/11/2021 da Infovarejo, ficam nítidos os problemas que se podem ter em um estoque desorganizado.
-https://www.infovarejo.com.br/10-causas-problemas-estoque/
-
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 O objetivo geral deste projeto é desenvolver um software que permita que empreendedores no setor calçadista gerenciem o seu estoque 
@@ -37,23 +28,15 @@ O objetivo geral deste projeto é desenvolver um software que permita que empree
 - Permitir que a empresa acompanhe a quantidade de produtos em estoque, garantindo que haja disponibilidade de produtos suficiente para atender à demanda dos clientes.
 - Visualizar histórico de movimentação do estoque, saídas e entradas de produtos. 
 
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
-A pandemia de COVID-19, levou muitas pessoas a fazerem compras online, o que não parou no pós pandemia, onde lojas fisicas continuam realizando vendas online.
+A falta de gestão de estoque gera prejuízos financeiros que podem variar significativamente de acordo com a indústria e o tamanho da empresa, um dado que ilustra o impacto financeiro da gestão inadequada de estoque é a obsolescência, de acordo coma materia da Forbs, o inventário extra da empresa Magazine Luiza registrou uma provisão de R$ 395 milhões no terceiro trimestre que acabou ajudando a derrubar o lucro da companhia no período em quase 90% e pressionava as ações da empresa para uma queda de 16% às 16h20.
 
-De acordo com um relatório da Adobe Digital Economy Index de janeiro de 2021, as vendas online nos Estados Unidos cresceram 32,4% em relação ao ano anterior, totalizando US $ 791,7 bilhões em 2020. Sendo assim, O controle de estoque é extremamente importante para o sucesso de qualquer negócio que lida com a venda de produtos físicos. Ele envolve monitorar e gerenciar os níveis de estoque para garantir que a empresa tenha sempre a quantidade adequada de produtos disponíveis para atender à demanda dos clientes.
+MONEY,Forbs: magazine luiza quer reduzir estoque apos surpresa negativa no trimestre. forbs.com.br, 2021. Disponível em: (https://forbes.com.br/forbes-money/2021/11/magazine-luiza-quer-reduzir-estoque-apos-surpresa-negativa-no-trimestre/). Acesso em: 24/03/2023  
 
-sendo assim a falta de gestão de estoque gera prejuízos financeiros que podem variar significativamente de acordo com a indústria e o tamanho da empresa, um dado que ilustra o impacto financeiro da gestão inadequada de estoque é a obsolescência, de acordo com um estudo da Inc., a obsolescência pode representar entre 2% e 15% do estoque de uma empresa. Além disso, um relatório da Forbes mostrou que a Best Buy perdeu cerca de US $ 1,7 bilhão em 2012 devido à obsolescência do estoque.
+Nessa matéria de 26/11/2021 da Infovarejo, ficam nítidos os problemas que se podem ter em um estoque sem gestão.
+BADARÓ, Adilson: 10 causas de problemas no seu estoque. infovarejo.com.br, 2021. Disponível em: https://www.infovarejo.com.br/10-causas-problemas-estoque/. Acesso em: 24/03/2023
 
-Artigo publicado originalmente em maio de 2018 e atualizado em março de 2020. Principais problemas do estoque parado. 2020. Disponível em: (https://www.traycorp.com.br/o-guia-completo-de-como-acabar-de-vez-com-o-estoque-parado/)
-
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -61,10 +44,3 @@ Embora existam vários perfis de empreendedores de diferentes portes, o foco des
 
 Desta forma, estabeleceu-se como público-alvo desta solução, pequenos empreendedores calçadistas que se encontram com dificuldade de controlar seu estoque e precisam atualizá-lo constantemente para pontencializar sua lucratividade, tendo mais informações da sua empresa através de um sistema simples e intuitivo.
 
-
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
