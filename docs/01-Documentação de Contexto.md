@@ -47,7 +47,9 @@ A pandemia de COVID-19, levou muitas pessoas a fazerem compras online, o que nã
 
 De acordo com um relatório da Adobe Digital Economy Index de janeiro de 2021, as vendas online nos Estados Unidos cresceram 32,4% em relação ao ano anterior, totalizando US $ 791,7 bilhões em 2020. Sendo assim, O controle de estoque é extremamente importante para o sucesso de qualquer negócio que lida com a venda de produtos físicos. Ele envolve monitorar e gerenciar os níveis de estoque para garantir que a empresa tenha sempre a quantidade adequada de produtos disponíveis para atender à demanda dos clientes.
 
-sendo assim a falta de gestão de estoque gera prejuízos financeiros que podem variar significativamente de acordo com a indústria e o tamanho da empresa, um dado que ilustra o impacto financeiro da gestão inadequada de estoque é a Obsolescência: de acordo com um estudo da Inc., a obsolescência pode representar entre 2% e 15% do estoque de uma empresa. Além disso, um relatório da Forbes mostrou que a Best Buy perdeu cerca de US $ 1,7 bilhão em 2012 devido à obsolescência do estoque.
+sendo assim a falta de gestão de estoque gera prejuízos financeiros que podem variar significativamente de acordo com a indústria e o tamanho da empresa, um dado que ilustra o impacto financeiro da gestão inadequada de estoque é a obsolescência, de acordo com um estudo da Inc., a obsolescência pode representar entre 2% e 15% do estoque de uma empresa. Além disso, um relatório da Forbes mostrou que a Best Buy perdeu cerca de US $ 1,7 bilhão em 2012 devido à obsolescência do estoque.
+
+Escrito por Cláudio Neto | 02/01/2023. O combate às perdas de estoque é essencial para a loja. 2023. Disponível em: https://www.infovarejo.com.br/evitar-perdas-de-estoque/
 
 
 > **Links Úteis**:
