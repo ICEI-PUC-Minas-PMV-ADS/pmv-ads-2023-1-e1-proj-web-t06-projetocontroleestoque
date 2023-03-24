@@ -1,35 +1,21 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
-R: O controle de estoque é extremamente importante para o sucesso de qualquer negócio que lida com a venda de produtos físicos, sendo necessário o monitoramento de perto do estoque de seus produtos para garantir que sempre tenham produtos suficientes para atender à demanda dos clientes.
+O controle de estoque é extremamente importante para o sucesso de qualquer negócio que lida com a venda de produtos físicos, sendo necessário o monitoramento de perto do estoque de seus produtos para garantir que sempre tenham produtos suficientes para atender à demanda dos clientes.
 
 
 ## Personas
 
 Bruno Almeida, tem 40 anos, é um empresário que possui uma microempresa de calçados em uma Salvador-Ba. Ele começou seu negócio há alguns anos, e, desde então, tem enfrentado desafios para gerenciar seu estoque de forma eficiente. Como resultado, muitas vezes ele acaba tendo dificuldades em garantir que seus clientes encontrem os produtos que precisam.
 
-Bruno é uma pessoa muito dedicada ao seu trabalho e tem um grande conhecimento sobre a indústria de calçados. No entanto, ele não tem experiência em gerenciamento de estoque e acaba tendo dificuldades para controlar as entradas e saídas de seus produtos. Ele tem consciência de que é preciso implementar um sistema de gestão de estoque mais eficiente para evitar perdas e melhorar o atendimento aos clientes.
+Bruno é uma pessoa muito dedicada ao seu trabalho e tem um grande conhecimento sobre a indústria de calçados. No entanto, ele não tem experiência em gerenciamento de estoque e acaba tendo dificuldades para controlar as entradas e saídas de seus produtos. 
 
-Bruno está buscando um software que possa ajudá-lo a gerenciar seu estoque de forma mais eficiente. Ele precisa de um sistema fácil de usar e que possa fornecer informações precisas e em tempo real sobre a disponibilidade de seus produtos. Ele gostaria de um sistema que pudesse ajudá-lo a realizar inventários mais rapidamente e que pudesse fornecer informações sobre o desempenho de vendas de seus produtos.
+Bruno esta procurando ajuda para gerenciar seu estoque de forma mais eficiente, ele precisa entender como fazer isto em tempo real para eliminar problemas como realizar compras fora da hora, gastando assim mais dinehiro, e se deparar com a falta do produto buscado pelo cliente.
 
 Nos momentos livres, Bruno gosta de assistir jogos de futebol e passar tempo com sua família e amigos. Ele acredita que o sucesso de seu negócio depende da capacidade de gerenciar eficientemente seu estoque e atender às necessidades de seus clientes.
 
+motivação: Ele tem consciência de que é preciso implementar um sistema de gestão de estoque mais eficiente para evitar perdas e melhorar o atendimento aos clientes.
 
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+frustração: impossibilidade de realizar inventários mais rapidamente e que pudesse fornecer informações sobre o desempenho de vendas de seus produtos.
 
 ## Histórias de Usuários
 
@@ -37,10 +23,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|                    |                                    |                                        |
-|Lojista             | Gerenciar e controlar o estoque    | Garantir que tenha produtos suficientes|
-|                    | fisico dos itens da loja           | para atender à demanda dos clientes     |
+|Bruno Almeida       | Registrar a entrada de mercadoria  | Garantir que tenha produtos suficientes|
+|                    | Registrar a saída de mercadorias   | para atender à demanda dos clientes    |                                   |
+|                    | Saber quais produtos estão faltando|                                        |
+|                    | Saber quando comprar mais produtos |                                        |
+|                    | Gerar relatório de estoque         |                                        |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
