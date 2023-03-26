@@ -33,6 +33,7 @@ Como lojista, quero registrar entrada e saída de mercadorias para ter um estoqu
 Como lojista, quero saber quando negociar preços e prazos com os fornecedores para evitar perda de vendas por falta de produtos.
 
 Como lojista, quero saber quando criar promoção para evitar estoque parado.
+
 Como lojista, quero reduziz custos com itens parados para evitar altos custos com armazenagem.  
 
 ## Requisitos
