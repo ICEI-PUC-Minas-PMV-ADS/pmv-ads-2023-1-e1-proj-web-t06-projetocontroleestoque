@@ -21,13 +21,12 @@ frustração: impossibilidade de realizar inventários mais rapidamente e que pu
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Bruno Almeida       | Registrar a entrada de mercadoria  | Garantir que tenha produtos suficientes|
-|                    | Registrar a saída de mercadorias   | para atender à demanda dos clientes    |                                   |
-|                    | Saber quais produtos estão faltando|                                        |
-|                    | Saber quando comprar mais produtos |                                        |
-|                    | Gerar relatório de estoque         |                                        |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                       |PARA ... `MOTIVO/VALOR`                       |
+|--------------------|----------------------------------------------------------|----------------------------------------------|
+|Bruno Almeida       |Registrar entrada e saída de mercadorias                  |Ter um estoque equilibrado para evitar perdas |
+|                    |Saber quando negociar preços e prazos com os fornecedores |Evitar perda de vendas por falta de produtos  |
+|                    |Saber quando criar promoção                               |Evitar estoque parado                         |
+|                    |Reduziz custos com itens parados                          |Evitar altos custos com armazenagem           |  
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
