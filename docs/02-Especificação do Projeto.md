@@ -19,23 +19,19 @@ frustração: impossibilidade de realizar inventários mais rapidamente e que pu
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                       |PARA ... `MOTIVO/VALOR`                       |
 |--------------------|----------------------------------------------------------|----------------------------------------------|
-|Bruno Almeida       |Registrar entrada e saída de mercadorias                  |Ter um estoque equilibrado para evitar perdas |
+|Bruno Almeida       |Registrar entrada e saída de mercadorias                  |Ter um estoque equilibrado                    |
 |                    |Saber quando negociar preços e prazos com os fornecedores |Evitar perda de vendas por falta de produtos  |
 |                    |Saber quando criar promoção                               |Evitar estoque parado                         |
 |                    |Reduziz custos com itens parados                          |Evitar altos custos com armazenagem           |  
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+Como lojista, quero registrar entrada e saída de mercadorias para ter um estoque equilibrado.
+Como lojista, quero saber quando negociar preços e prazos com os fornecedores para evitar perda de vendas por falta de produtos.
+Como lojista, quero saber quando criar promoção para evitar estoque parado.
+Como lojista, quero reduziz custos com itens parados para evitar altos custos com armazenagem.  
 
 ## Requisitos
 
@@ -45,8 +41,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário registre entrada e saída de mercadorias | ALTA | 
+|RF-002| Gravar a data das entradas e saídas no momento do registro pelo usuário | ALTA | 
+|RF-003| Permitir que o usuário informe o estoque minimo obrigatório   | ALTA |
+|RF-004| Realizar o calculo do estoque atual | ALTA |
+|RF-005| Emitir um alerta quando a mercadoria estiver proxima do estque minimo | ALTA |
+|RF-006| Emitir relatório de estoque informando total em estoque e estoque minimo | ALTA |
+|RF-007| Emitir relatório de estoque detalhando as entradas e saídas | ALTA |
+|RF-008| Emitir relatório de estoque informando data de entrada e data de saída das mercadorias | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -55,6 +57,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve suportar uma alta quantidade de registro de mercadorias| ALTA | 
+|RNF-001| O sistema deve permitir o registro de mercadorias por mais de um usuário sumultaneamente| ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
