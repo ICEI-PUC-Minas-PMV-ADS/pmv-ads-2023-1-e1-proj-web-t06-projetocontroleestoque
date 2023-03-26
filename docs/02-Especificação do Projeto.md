@@ -29,7 +29,9 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |                    |Reduziz custos com itens parados                          |Evitar altos custos com armazenagem           |  
 
 Como lojista, quero registrar entrada e saída de mercadorias para ter um estoque equilibrado.
+
 Como lojista, quero saber quando negociar preços e prazos com os fornecedores para evitar perda de vendas por falta de produtos.
+
 Como lojista, quero saber quando criar promoção para evitar estoque parado.
 Como lojista, quero reduziz custos com itens parados para evitar altos custos com armazenagem.  
 
