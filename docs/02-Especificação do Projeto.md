@@ -68,14 +68,14 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
 
 - [Requisitos Funcionais
  
- - Cadastrar produtos
- - Registrar entrada de mercadorias
- - Registrar saída de mercadorias
- - Cadastrar estoque mínimo
- - Calcular estoque atual
- - Calcular custo de estoque parado
- - Emitir alerta para estoque mínimo
- - Emitir relatórios
+  - Cadastrar produtos
+  - Registrar entrada de mercadorias
+  - Registrar saída de mercadorias
+  - Cadastrar estoque mínimo
+  - Calcular estoque atual
+  - Calcular custo de estoque parado
+  - Emitir alerta para estoque mínimo
+  - Emitir relatórios
 
 - [Requisitos Não Funcionais
   
