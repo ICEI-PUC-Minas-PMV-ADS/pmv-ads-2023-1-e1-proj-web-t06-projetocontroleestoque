@@ -48,10 +48,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Gravar a data das entradas e saídas no momento do registro pelo usuário | ALTA | 
 |RF-003| Permitir que o usuário informe o estoque minimo obrigatório   | ALTA |
 |RF-004| Realizar o calculo do estoque atual | ALTA |
-|RF-005| Emitir um alerta quando a mercadoria estiver proxima do estque minimo | ALTA |
-|RF-006| Emitir relatório de estoque informando total em estoque e estoque minimo | ALTA |
-|RF-007| Emitir relatório de estoque detalhando as entradas e saídas | ALTA |
-|RF-008| Emitir relatório de estoque informando data de entrada e data de saída das mercadorias | ALTA |
+|RF-005| Realizar o calculo do custo de estoque parado | ALTA |
+|RF-006| Emitir um alerta quando a mercadoria estiver proxima do estque minimo | ALTA |
+|RF-007| Emitir relatório de estoque informando total em estoque e estoque minimo | ALTA |
+|RF-008| Emitir relatório de estoque detalhando as entradas e saídas | ALTA |
+|RF-009| Emitir relatório de estoque informando data de entrada e data de saída das mercadorias | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -60,23 +61,26 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-001| O sistema deve suportar uma alta quantidade de registro de mercadorias| ALTA | 
-|RNF-001| O sistema deve permitir o registro de mercadorias por mais de um usuário sumultaneamente| ALTA | 
+|RNF-003| O sistema deve suportar uma alta quantidade de registro de mercadorias| ALTA | 
+|RNF-004| O sistema deve permitir o registro de mercadorias por mais de um usuário sumultaneamente| ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
+ 
+ - Cadastrar produtos
+ - Registrar entrada de mercadorias
+ - Registrar saída de mercadorias
+ - Cadastrar estoque mínimo
+ - Calcular estoque atual
+ - Calcular custo de estoque parado
+ - Emitir alerta para estoque mínimo
+ - Emitir relatórios
+
 - [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+  
+  - Suportar registro simultaneo de entradas e saídas
+  
 
 ## Restrições
 
@@ -89,7 +93,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
