@@ -38,6 +38,11 @@ Nessa matéria de 26/11/2021 da Infovarejo, ficam nítidos os problemas que se p
 
 BADARÓ, Adilson: 10 causas de problemas no seu estoque. infovarejo.com.br, 2021. Disponível em: https://www.infovarejo.com.br/10-causas-problemas-estoque/. Acesso em: 24/03/2023
 
+## Aplicações relacionadas:
+
+- Venda Fácil: O aplicativo Venda Fácil é ótimo para controlar as vendas e a gestão de estoque e está disponível para dispositivos Android. Com ele, é possível monitorar todas as áreas de um comércio pequeno ou de médio porte.
+- Estoque Simples: O grande diferencial do aplicativo Estoque Simples é que ele não precisa de conexão com a internet para funcionar. É uma ferramenta eficiente e rápida para você organizar e gerenciar o estoque da sua empresa.
+- Contestoque: O aplicativo Contestoque faz a contagem do seu estoque por meio de um leitor de códigos de barras conectado via USB ou pela câmera do celular.
 
 ## Público-Alvo
 
@@ -45,8 +50,4 @@ Embora existam vários perfis de empreendedores de diferentes portes, o foco des
 
 Desta forma, estabeleceu-se como público-alvo desta solução, pequenos empreendedores calçadistas que se encontram com dificuldade de controlar seu estoque e precisam atualizá-lo constantemente para pontencializar sua lucratividade, tendo mais informações da sua empresa através de um sistema simples e intuitivo.
 
-## Aplicações relacionadas:
 
-- Venda Fácil: O aplicativo Venda Fácil é ótimo para controlar as vendas e a gestão de estoque e está disponível para dispositivos Android. Com ele, é possível monitorar todas as áreas de um comércio pequeno ou de médio porte.
-- Estoque Simples: O grande diferencial do aplicativo Estoque Simples é que ele não precisa de conexão com a internet para funcionar. É uma ferramenta eficiente e rápida para você organizar e gerenciar o estoque da sua empresa.
-- Contestoque: O aplicativo Contestoque faz a contagem do seu estoque por meio de um leitor de códigos de barras conectado via USB ou pela câmera do celular.
