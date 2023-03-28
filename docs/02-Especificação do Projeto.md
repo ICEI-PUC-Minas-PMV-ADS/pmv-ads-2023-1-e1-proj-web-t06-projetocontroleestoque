@@ -15,7 +15,7 @@ Bruno esta procurando ajuda para gerenciar seu estoque de forma mais eficiente, 
 
 Nos momentos livres, Bruno gosta de assistir jogos de futebol e passar tempo com sua família e amigos. Ele acredita que o sucesso de seu negócio depende da capacidade de gerenciar eficientemente seu estoque e atender às necessidades de seus clientes.
 
-motivação: Ele tem consciência de que é preciso implementar um sistema de gestão de estoque mais eficiente para evitar perdas e melhorar o atendimento aos clientes.
+motivação: Evitar perdas e melhorar o atendimento aos clientes.
 
 frustração: impossibilidade de realizar inventários mais rapidamente e que pudesse fornecer informações sobre o desempenho de vendas de seus produtos.
 
@@ -39,14 +39,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário registre entrada e saída de mercadorias | ALTA | 
-|RF-002| Gravar a data das entradas e saídas no momento do registro pelo usuário | ALTA | 
-|RF-003| Permitir que o usuário informe o estoque minimo obrigatório   | ALTA |
-|RF-004| Realizar o calculo do estoque atual | ALTA |
-|RF-005| Realizar o calculo do custo de estoque parado | ALTA |
-|RF-006| Emitir um alerta quando a mercadoria estiver proxima do estque minimo | ALTA |
-|RF-007| Emitir relatório de estoque informando total em estoque e estoque minimo | MEDIA |
-|RF-008| Emitir relatório de estoque detalhando as entradas e saídas | MEDIA |
-|RF-009| Emitir relatório de estoque informando data de entrada e data de saída das mercadorias | MEDIA |
+|RF-002| Permitir que o usuário informe o estoque minimo obrigatório   | ALTA |
+|RF-003| Realizar o calculo do estoque atual | ALTA |
+|RF-004| Realizar o calculo do custo de estoque parado | ALTA |
+|RF-005| Emitir um alerta quando a mercadoria estiver proxima do estque minimo | ALTA |
+|RF-006| Emitir relatório de estoque informando total em estoque e estoque minimo | MEDIA |
+|RF-007| Emitir relatório de estoque detalhando as entradas e saídas | MEDIA |
 
 
 ### Requisitos não Funcionais
@@ -56,7 +54,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-003| O sistema deve suportar uma alta quantidade de registro de mercadorias| ALTA | 
-|RNF-004| O sistema deve permitir o registro de mercadorias por mais de um usuário sumultaneamente| ALTA | 
 
 
 ## Restrições
