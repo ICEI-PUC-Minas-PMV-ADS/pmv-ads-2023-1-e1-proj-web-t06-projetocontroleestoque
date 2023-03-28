@@ -58,23 +58,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O sistema deve suportar uma alta quantidade de registro de mercadorias| ALTA | 
 |RNF-004| O sistema deve permitir o registro de mercadorias por mais de um usuário sumultaneamente| ALTA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- 
-  - Cadastrar produtos
-  - Registrar entrada de mercadorias
-  - Registrar saída de mercadorias
-  - Cadastrar estoque mínimo
-  - Calcular estoque atual
-  - Calcular custo de estoque parado
-  - Emitir alerta para estoque mínimo
-  - Emitir relatórios
-
-- [Requisitos Não Funcionais
-  
-  - Suportar registro simultaneo de entradas e saídas
-  
 
 ## Restrições
 
