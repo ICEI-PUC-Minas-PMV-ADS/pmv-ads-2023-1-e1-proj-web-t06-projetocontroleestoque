@@ -3,7 +3,7 @@
 O controle de estoque é extremamente importante para o sucesso de qualquer negócio que lida com a venda de produtos físicos, sendo necessário o monitoramento de perto do estoque de seus produtos para garantir que sempre tenham produtos suficientes para atender à demanda dos clientes. Para especificação do projeto foi criada uma persona para demonstrar os desafios de gerenciar o estoque de forma eficiente.
 
 
-## Personas
+## Persona
 
 ![lojista](https://user-images.githubusercontent.com/101727981/228383438-d9df000f-595c-4f8e-80dc-17dfe375bd05.png)
 
