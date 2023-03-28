@@ -38,13 +38,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário registre entrada e saída de mercadorias | ALTA | 
-|RF-002| Permitir que o usuário informe o estoque minimo obrigatório   | ALTA |
-|RF-003| Realizar o calculo do estoque atual | ALTA |
-|RF-004| Realizar o calculo do custo de estoque parado | ALTA |
-|RF-005| Emitir um alerta quando a mercadoria estiver proxima do estque minimo | ALTA |
-|RF-006| Emitir relatório de estoque informando total em estoque e estoque minimo | MEDIA |
-|RF-007| Emitir relatório de estoque detalhando as entradas e saídas | MEDIA |
+|RF-001| Permitir que o usuário cadastre produtos | ALTA | 
+|RF-002| Permitir que o usuário registre entrada e saída de mercadorias | ALTA | 
+|RF-003| Permitir que o usuário informe o estoque minimo obrigatório   | ALTA |
+|RF-004| Realizar o calculo do estoque atual | ALTA |
+|RF-005| Realizar o calculo do custo de estoque parado | ALTA |
+|RF-006| Emitir um alerta quando a mercadoria estiver proxima do estque minimo | ALTA |
+|RF-007| Emitir relatório de estoque informando total em estoque e estoque minimo | MEDIA |
+|RF-008| Emitir relatório de estoque detalhando as entradas e saídas | MEDIA |
 
 
 ### Requisitos não Funcionais
