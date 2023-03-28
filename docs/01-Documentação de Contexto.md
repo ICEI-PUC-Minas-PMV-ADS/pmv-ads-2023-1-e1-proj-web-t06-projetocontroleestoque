@@ -30,13 +30,7 @@ O objetivo geral deste projeto é desenvolver um software que permita que empree
 
 ## Justificativa
 
-A falta de gestão de estoque gera prejuízos financeiros que podem variar significativamente de acordo com a indústria e o tamanho da empresa, um dado que ilustra o impacto financeiro da gestão inadequada de estoque é a obsolescência, de acordo coma materia da Forbs, o inventário extra da empresa Magazine Luiza registrou uma provisão de R$ 395 milhões no terceiro trimestre que acabou ajudando a derrubar o lucro da companhia no período em quase 90% e pressionava as ações da empresa para uma queda de 16% às 16h20.
-
-MONEY,Forbs: magazine luiza quer reduzir estoque apos surpresa negativa no trimestre. forbs.com.br, 2021. Disponível em: (https://forbes.com.br/forbes-money/2021/11/magazine-luiza-quer-reduzir-estoque-apos-surpresa-negativa-no-trimestre/). Acesso em: 24/03/2023  
-
-Nessa matéria de 26/11/2021 da Infovarejo, ficam nítidos os problemas que se podem ter em um estoque sem gestão.
-
-BADARÓ, Adilson: 10 causas de problemas no seu estoque. infovarejo.com.br, 2021. Disponível em: https://www.infovarejo.com.br/10-causas-problemas-estoque/. Acesso em: 24/03/2023
+A falta de gestão de estoque gera prejuízos financeiros que podem variar significativamente de acordo com a indústria e o tamanho da empresa. Um dado que ilustra o impacto financeiro da gestão inadequada de estoque é a obsolescência. De acordo com a Forbes (2021), o inventário extra da empresa Magazine Luiza registrou uma provisão de R$ 395 milhões no terceiro trimestre que acabou ajudando a derrubar o lucro da companhia no período em quase 90% e pressionava as ações da empresa para uma queda de 16% às 16h20. Para Badaró (2021), um estoque sem gestão pode trazer inúmeros problemas para a empresa.
 
 ## Aplicações relacionadas:
 
