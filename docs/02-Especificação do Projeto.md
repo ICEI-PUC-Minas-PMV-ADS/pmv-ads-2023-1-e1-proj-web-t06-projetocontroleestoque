@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-O controle de estoque é extremamente importante para o sucesso de qualquer negócio que lida com a venda de produtos físicos, sendo necessário o monitoramento de perto do estoque de seus produtos para garantir que sempre tenham produtos suficientes para atender à demanda dos clientes.
+O controle de estoque é extremamente importante para o sucesso de qualquer negócio que lida com a venda de produtos físicos, sendo necessário o monitoramento de perto do estoque de seus produtos para garantir que sempre tenham produtos suficientes para atender à demanda dos clientes. Para especificação do projeto foi criada uma persona para demonstrar os desafios de gerenciar o estoque de forma eficiente.
 
 
 ## Personas
