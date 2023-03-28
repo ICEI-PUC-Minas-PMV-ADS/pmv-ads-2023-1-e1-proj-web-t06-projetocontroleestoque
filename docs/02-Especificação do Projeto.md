@@ -23,18 +23,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                       |PARA ... `MOTIVO/VALOR`                       |
 |--------------------|----------------------------------------------------------|----------------------------------------------|
-|Bruno Almeida       |Registrar entrada e saída de mercadorias                  |Ter um estoque equilibrado                    |
-|                    |Saber quando negociar preços e prazos com os fornecedores |Evitar perda de vendas por falta de produtos  |
-|                    |Saber quando criar promoção                               |Evitar estoque parado                         |
-|                    |Reduziz custos com itens parados                          |Evitar altos custos com armazenagem           |  
-
-Como lojista, quero registrar entrada e saída de mercadorias para ter um estoque equilibrado.
-
-Como lojista, quero saber quando negociar preços e prazos com os fornecedores para evitar perda de vendas por falta de produtos.
-
-Como lojista, quero saber quando criar promoção para evitar estoque parado.
-
-Como lojista, quero reduziz custos com itens parados para evitar altos custos com armazenagem.  
+|Lojista             |Registrar entrada e saída de mercadorias                  |Ter um estoque equilibrado                    |
+|Lojista             |Saber quando negociar preços e prazos com os fornecedores |Evitar perda de vendas por falta de produtos  |
+|Lojista             |Saber quando criar promoção                               |Evitar estoque parado                         |
+|Lojista             |Reduziz custos com itens parados                          |Evitar altos custos com armazenagem           |  
 
 ## Requisitos
 
