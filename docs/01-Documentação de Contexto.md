@@ -35,8 +35,8 @@ A falta de gestão de estoque gera prejuízos financeiros que podem variar signi
 ## Aplicações relacionadas:
 
 - [Venda Fácil](https://appvendafacil.com.br/): O aplicativo Venda Fácil é ótimo para controlar as vendas e a gestão de estoque e está disponível para dispositivos Android. Com ele, é possível monitorar todas as áreas de um comércio pequeno ou de médio porte.
-- [Estoque Simples](https://gestaoclick.com.br/app-estoque-simples/): O grande diferencial do aplicativo Estoque Simples é que ele não precisa de conexão com a internet para funcionar. É uma ferramenta eficiente e rápida para você organizar e gerenciar o estoque da sua empresa.
-- [Contestoque](http://www.contestoque.com.br/): O aplicativo Contestoque faz a contagem do seu estoque por meio de um leitor de códigos de barras conectado via USB ou pela câmera do celular.
+- [Linx](https://mkt.linx.com.br/linxretail-gestao-de-estoque/?utm_source=google&utm_medium=cpc&utm_campaign=institucional-search-estoque&gclid=EAIaIQobChMIxd6EqKGB_gIVUuVcCh1mTgNaEAAYAyAAEgK9efD_BwE): Com os nossos sistemas de gestão a sua loja física ou e-commerce irão integrar todas as vendas e estoque de maneira simples e intuitiva!
+- [GestãoClick](https://gestaoclick.com.br/controle-de-estoque/): Dentro da plataforma, é possível gerenciar o fluxo de mercadorias e registrar movimentações de entrada e saída.
 
 ## Público-Alvo
 
