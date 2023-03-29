@@ -44,8 +44,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Realizar o calculo do estoque atual | ALTA |
 |RF-005| Realizar o calculo do custo de estoque parado | ALTA |
 |RF-006| Emitir um alerta quando a mercadoria estiver proxima do estque minimo | ALTA |
-|RF-007| Emitir relatório de estoque informando total em estoque e estoque minimo | MEDIA |
-|RF-008| Emitir relatório de estoque detalhando as entradas e saídas | MEDIA |
+|RF-007| Emitir relatório de estoque | MEDIA |
 
 
 ### Requisitos não Funcionais
