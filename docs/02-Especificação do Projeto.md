@@ -15,9 +15,9 @@ Bruno esta procurando ajuda para gerenciar seu estoque de forma mais eficiente, 
 
 Nos momentos livres, Bruno gosta de assistir jogos de futebol e passar tempo com sua família e amigos. Ele acredita que o sucesso de seu negócio depende da capacidade de gerenciar eficientemente seu estoque e atender às necessidades de seus clientes.
 
-##### Motivação: Evitar perdas e melhorar o atendimento aos clientes.
+**Motivação:** Evitar perdas e melhorar o atendimento aos clientes.
 
-##### Frustração: Impossibilidade de realizar inventários mais rapidamente e que pudesse fornecer informações sobre o desempenho de vendas de seus produtos.
+**Frustração:** Impossibilidade de realizar inventários mais rapidamente e que pudesse fornecer informações sobre o desempenho de vendas de seus produtos.
 
 ## Histórias de Usuários
 
