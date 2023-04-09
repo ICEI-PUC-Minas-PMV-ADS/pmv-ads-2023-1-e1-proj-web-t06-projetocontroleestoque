@@ -32,6 +32,7 @@ A equipe está organizada da seguinte maneira:
  ○	Anderson Nascimento Souza
  ○	
  ○	
+
 ●	Equipe de Design
 
  ○
