@@ -7,13 +7,11 @@ A metodologia adotada engloba as determinações referentes às ferramentas util
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a lista dos locais com sua respectiva finalidade é apresentada na tabela que se segue.
 
 | Ambiente |	Plataforma	| Link de Acesso |
-| --- | --- |
-
-
-|Repositório de código fonte|	GitHub	|https://github.com/rommelcarneiro/tiaw-template|
-|Documentos do projeto|	Google Drive	|https://drive.google.com/drive/folders/1xE9t6zD78VnVkeOSgDfss33QWe85ogqYpx9x-tuG24|
-|Projeto de Interface e Wireframes|	MarvelApp	|https://marvelapp.com/4hd6091|
-|Gerenciamento do Projeto	|Trello	|https://trello.com/b/LupglzUz/tiaw-template|
+| --- | --- | --- |
+| Repositório de código fonte |	GitHub	| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque |
+| Documentos do projeto |	Google Drive	|  |
+| Projeto de Interface e Wireframes |	MarvelApp	| |
+| Gerenciamento do Projeto	| Trello	| (Será obrigatório usar? Eu entendi que pelo github podemos fazer a mesma coisa  |
 
 
 
