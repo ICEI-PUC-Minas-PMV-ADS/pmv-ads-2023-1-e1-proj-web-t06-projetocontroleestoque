@@ -30,7 +30,9 @@ A equipe está organizada da seguinte maneira:
 ●	Equipe de Desenvolvimento
 
  ○	Anderson Nascimento Souza
+ 
  ○	
+ 
  ○	
 
 ●	Equipe de Design
