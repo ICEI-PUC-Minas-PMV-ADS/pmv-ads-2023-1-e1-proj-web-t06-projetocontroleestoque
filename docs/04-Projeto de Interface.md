@@ -1,7 +1,9 @@
 
 # Projeto de Interface
 
-Projeto de interface é o processo de planejar e criar a aparência visual e a interação de um sistema, aplicativo ou website com seus usuários finais. Em um projeto de gestão de estoque, a interface pode incluir elementos como a navegação pelos menus, a visualização dos itens em estoque, a inserção ou remoção de produtos, a exibição de relatórios e outras funções necessárias para gerenciar o estoque de uma empresa. O objetivo do projeto de interface é tornar a experiência do usuário o mais intuitiva e eficiente possível, facilitando a realização das tarefas necessárias e proporcionando uma visão clara e acessível das informações relevantes.
+Projeto de interface é o processo de planejar e criar a aparência visual e a interação de um sistema, aplicativo ou website com seus usuários finais. Em um projeto de gestão de estoque, a interface pode incluir elementos como a navegação pelos menus, a visualização dos itens em estoque, a inserção ou remoção de produtos, a exibição de relatórios e outras funções necessárias para gerenciar o estoque de uma empresa. 
+
+O objetivo do projeto de interface é tornar a experiência do usuário o mais intuitiva e eficiente possível, facilitando a realização das tarefas necessárias e proporcionando uma visão clara e acessível das informações relevantes.
 
 ## Fluxo do Usuário
 
