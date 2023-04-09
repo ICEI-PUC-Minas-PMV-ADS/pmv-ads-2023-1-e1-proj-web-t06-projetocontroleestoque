@@ -22,13 +22,18 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
 A equipe está organizada da seguinte maneira:
+
 ●	Scrum Master: Erica Lucia dos Santos
+
 ●	Product Owner:
+
 ●	Equipe de Desenvolvimento
+
  ○	Anderson Nascimento Souza
  ○	
  ○	
 ●	Equipe de Design
+
  ○
 
 A metodologia do projeto que iremos utilizar é baseada no gerenciamento através do Kanban. A equipe estará utilizando o Github como ferramenta de gerenciamneto de tarefas. 
