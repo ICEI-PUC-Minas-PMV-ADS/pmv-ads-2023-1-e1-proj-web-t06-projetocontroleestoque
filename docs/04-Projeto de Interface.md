@@ -12,14 +12,22 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 A seguir é apresentado um fluxo de interação do usuário com as telas do sistema, mostrando cada tela necessária para o gerenciamento de estoque:
 
 1-Permitir que o usuário faça login
+
 2-Permitir que o usuário veja o dashboard com informações gerais do estoque
+
 3-Permitir que o usuário cadastre produtos
+
 4-Permitir que o usuário registre entrada e saída de mercadorias
+
 5-Permitir que o usuário informe o estoque mínimo obrigatório
+
 6-Realizar o cálculo do estoque atual
+
 7-Realizar o cálculo do custo de estoque parado
+
 8-Emitir um alerta quando a mercadoria estiver próxima do estoque mínimo
-10-Emitir relatório de estoque
+
+9-Emitir relatório de estoque
 
 Cada uma dessas etapas é fundamental para manter um bom controle de estoque e evitar problemas como falta de produtos, excesso de estoque parado e prejuízos financeiros.
 
