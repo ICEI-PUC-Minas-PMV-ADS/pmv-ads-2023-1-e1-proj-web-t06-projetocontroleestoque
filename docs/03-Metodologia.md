@@ -17,7 +17,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+### Equipe de trabalho
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
 
@@ -53,7 +53,15 @@ Com essas metodologias, espera-se ter um melhor controle sobre o andamento do pr
 
 ### Processo
 
-O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através da URL xxxx e é apresentado, no estado atual, na Figura X.
+ 1 Product backlog
+  2 Sprint 1
+    2.1 Planejamento
+    2.2 Execução
+    2.3 Evidências
+  3 Sprint 2
+    3.1 Planejamento
+    3.2 Execução
+    3.3 Evidências
 
 ### Ferramentas
 
