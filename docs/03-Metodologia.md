@@ -31,13 +31,13 @@ A equipe está organizada da seguinte maneira:
 
  ○	Anderson Nascimento Souza
  
- ○	
+ ○	Bruna Bricio Alvarenga Sampaio 
  
- ○	
+ ○	Samara Karoline De Almeida Costa
 
 ●	Equipe de Design
 
- ○
+ ○ Bianca Nicoly Dias Matos
 
 A metodologia do projeto que iremos utilizar é baseada no gerenciamento através do Kanban. A equipe estará utilizando o Github como ferramenta de gerenciamneto de tarefas. 
 
@@ -72,5 +72,5 @@ Com essas metodologias, espera-se ter um melhor controle sobre o andamento do pr
 As ferramentas empregadas no projeto são:
 
 | Editor de código | Ferramentas de comunicação |Ferramentas de desenho de tela |
-| --- | --- | --- |
+| --- | Whatsup | --- |
 | --- | --- | --- |
