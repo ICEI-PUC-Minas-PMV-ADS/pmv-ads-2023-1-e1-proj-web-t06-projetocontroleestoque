@@ -9,8 +9,8 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Ambiente |	Plataforma	| Link de Acesso |
 | --- | --- | --- |
 | Repositório de código fonte |	GitHub	| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque |
-| Documentos do projeto |	Google Drive	|  |
-| Projeto de Interface e Wireframes |	MarvelApp	| |
+| Documentos do projeto |	GitHub	|  |
+| Projeto de Interface e Wireframes |	Lucidchart	| |
 | Gerenciamento do Projeto	| GitHub	|   |
 
 
@@ -79,7 +79,7 @@ As ferramentas empregadas no projeto são:
 
 Editor de código:
 
-Ferramentas de comunicação: Whatup
+Ferramentas de comunicação: Whatsup
 
 Ferramentas de desenho de tela:
 
