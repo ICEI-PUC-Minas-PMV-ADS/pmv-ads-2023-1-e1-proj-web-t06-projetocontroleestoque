@@ -53,15 +53,19 @@ Com essas metodologias, espera-se ter um melhor controle sobre o andamento do pr
 
 ### Processo
 
- 1 Product backlog
-  2 Sprint 1
-    2.1 Planejamento
-    2.2 Execução
-    2.3 Evidências
-  3 Sprint 2
-    3.1 Planejamento
-    3.2 Execução
-    3.3 Evidências
+ Product backlog
+ 
+  Sprint 1
+  
+    Planejamento
+    Execução
+    Evidências
+    
+  Sprint 2
+  
+    Planejamento
+    Execução
+    Evidências
 
 ### Ferramentas
 
