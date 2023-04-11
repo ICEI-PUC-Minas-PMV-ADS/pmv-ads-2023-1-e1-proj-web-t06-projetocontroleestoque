@@ -27,7 +27,7 @@ A equipe está organizada da seguinte maneira:
 
 ●	Product Owner: Marco Azevedo
 
-●	Equipe de Desenvolvimento
+●	Equipe de Desenvolvimento:
 
  ○	Anderson Nascimento Souza
  
@@ -35,7 +35,7 @@ A equipe está organizada da seguinte maneira:
  
  ○	Samara Karoline De Almeida Costa
 
-●	Equipe de Design
+●	Equipe de Design:
 
  ○ Bianca Nicoly Dias Matos
 
@@ -66,11 +66,20 @@ Com essas metodologias, espera-se ter um melhor controle sobre o andamento do pr
     Planejamento
     Execução
     Evidências
+    
+  Sprint 3
+  
+    Planejamento
+    Execução
+    Evidências
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-| Editor de código | Ferramentas de comunicação |Ferramentas de desenho de tela |
-| --- | Whatsup | --- |
-| --- | --- | --- |
+Editor de código:
+
+Ferramentas de comunicação: Whatup
+
+Ferramentas de desenho de tela:
+
