@@ -23,23 +23,17 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 A equipe está organizada da seguinte maneira:
 
-●	Scrum Master: *Erica Lucia dos Santos
+●	Scrum Master: 
+  Erica Lucia dos Santos
 
-●	Product Owner: *Marco Azevedo
+●	Product Owner: 
+  Marco Azevedo
 
-●	Equipe de Desenvolvimento:
+●	Equipe de Desenvolvimento: 
+  Anderson Nascimento Souza, Bruna Bricio Alvarenga Sampaio, Marco Azevedo, Samara Karoline De Almeida Costa
 
- *Anderson Nascimento Souza
- 
- *Bruna Bricio Alvarenga Sampaio 
- 
- *Marco Azevedo
-   
- *Samara Karoline De Almeida Costa
-
-●	Equipe de Design:
-
- *Bianca Nicoly Dias Matos
+●	Equipe de Design: 
+  Bianca Nicoly Dias Matos
 
 A metodologia do projeto que iremos utilizar é baseada no gerenciamento através do Kanban. A equipe estará utilizando o Github como ferramenta de gerenciamneto de tarefas. 
 
