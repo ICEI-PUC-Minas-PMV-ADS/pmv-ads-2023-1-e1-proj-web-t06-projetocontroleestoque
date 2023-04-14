@@ -29,10 +29,9 @@ A equipe está organizada da seguinte maneira:
 
 ●	Equipe de Desenvolvimento:
 
- ○	Anderson Nascimento Souza
- 
+ ○ Anderson Nascimento Souza
  ○	Bruna Bricio Alvarenga Sampaio 
- 
+ ° Marco Azevedo
  ○	Samara Karoline De Almeida Costa
 
 ●	Equipe de Design:
