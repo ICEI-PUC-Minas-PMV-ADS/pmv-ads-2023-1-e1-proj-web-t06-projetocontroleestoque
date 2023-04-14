@@ -34,6 +34,9 @@ Cada uma dessas etapas é fundamental para manter um bom controle de estoque e e
 
 Conforme telas anteriores, apresentando o fluxo e telas fundamentais do sistema. Segue detalhes de cada função do projeto de gestão de estoque e as telas das suas respectivas funções:
 
+[PROJETO - ESTOQUE (2).pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/files/11234104/PROJETO.-.ESTOQUE.2.pdf)
+
+
 **Permitir que o usuário faça login:**
 
 Esta função permite que o usuário acesse o sistema, fornecendo um nome de usuário e uma senha válidos. É importante garantir que o processo de login seja seguro e protegido contra tentativas de invasão ou hacking.
