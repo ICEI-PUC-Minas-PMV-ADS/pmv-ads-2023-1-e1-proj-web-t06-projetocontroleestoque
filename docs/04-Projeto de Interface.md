@@ -34,7 +34,7 @@ Cada uma dessas etapas é fundamental para manter um bom controle de estoque e e
 
 Conforme telas anteriores, apresentando o fluxo e telas fundamentais do sistema. Segue detalhes de cada função do projeto de gestão de estoque e as telas das suas respectivas funções:
 
-[PROJETO - ESTOQUE (2).pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/files/11234104/PROJETO.-.ESTOQUE.2.pdf)
+![User flow Estoque](https://user-images.githubusercontent.com/115134851/232079546-3c1624ce-561d-4cef-8593-731f1eb75e8b.png)
 
 
 **Permitir que o usuário faça login:**
