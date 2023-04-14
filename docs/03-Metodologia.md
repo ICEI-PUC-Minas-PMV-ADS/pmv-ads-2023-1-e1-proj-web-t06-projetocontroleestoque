@@ -46,8 +46,6 @@ O uso do método Kanban em um projeto de controle de estoque é bastante justifi
 
 O uso do Burndown, em particular, é importante para acompanhar a evolução do projeto e garantir que a equipe esteja trabalhando dentro dos prazos estipulados. Com o burndown, é possível monitorar a quantidade de trabalho que ainda precisa ser realizado e fazer ajustes necessários para evitar atrasos ou sobrecarga de trabalho.
 
-#### *Além disso, o Kanban permite uma melhor organização e visualização das tarefas, priorizando as mais importantes e evitando que algumas atividades sejam negligenciadas ou esquecidas. Isso é especialmente importante em projetos de controle de estoque, que envolvem uma grande quantidade de dados e informações que precisam ser gerenciados com precisão.  *R: Talvez esta parte esteja sobrando pois já foi explicada acima
-
 Com essas metodologias, espera-se ter um melhor controle sobre o andamento do projeto, facilitando a identificação de gargalos e a tomada de decisões.
 
 ### Processo
