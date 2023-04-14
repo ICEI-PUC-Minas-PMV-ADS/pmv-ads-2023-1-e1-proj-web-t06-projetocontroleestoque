@@ -78,7 +78,7 @@ As ferramentas empregadas no projeto são:
 
 Editor de código:
 
-Ferramentas de comunicação: Whatsup
+Ferramentas de comunicação: Whatsapp
 
-Ferramentas de desenho de tela:
+Ferramentas de desenho de tela: Google Sheets
 
