@@ -31,7 +31,7 @@ A equipe está organizada da seguinte maneira:
 
  ○ Anderson Nascimento Souza
  ○	Bruna Bricio Alvarenga Sampaio 
- ° Marco Azevedo
+   Marco Azevedo
  ○	Samara Karoline De Almeida Costa
 
 ●	Equipe de Design:
