@@ -71,9 +71,11 @@ Com essas metodologias, espera-se ter um melhor controle sobre o andamento do pr
 
 As ferramentas empregadas no projeto são:
 
+Repositório: GitHub
+
 Editor de código:
 
-Ferramentas de comunicação: Whatsapp
+Ferramentas de comunicação: Whatsapp, Microsoft Teams
 
-Ferramentas de desenho de tela: Google Sheets
+Ferramentas de desenho de tela: Google Sheets, Lucidchart, Lunacy
 
