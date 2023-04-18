@@ -47,59 +47,49 @@ Com essas metodologias, espera-se ter um melhor controle sobre o andamento do pr
 
 ### Processo
 
- Product backlog
-01-Documentação de Contexto
-02-Especificação de requisitoso
-03-Metodologia
-04-Projeto de Interface
-05-Template padrão do Site
-06-Programação de Funcionalidades
-07-Plano de Testes de Software
-08-Registro de Testes de Software
-09-Implantação da solução
-10-Apresentação do Projeto
+Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitoso; 03-Metodologia; 04-Projeto de Interface; 05-Template padrão do Site; 06-Programação de Funcionalidades; 07-Plano de Testes de Software; 08-Registro de Testes de Software; 09-Implantação da solução; 10-Apresentação do Projeto
  
-  Sprint 1
+### Sprint 1
   
-    Planejamento:
-    01-Documentação de Contexto
-    02-Especificação de requisitos
+  Planejamento: O planejamento da Sprint 1 aborta a escrita da documentação de Contexto e especificação de requisitos.
     
-    Execução:
-    Para conclusão desta sprint foi necessário escrever a introdução do documento, 
-    Evidências
-    
-  Sprint 2
+  Execução: Para conclusão desta sprint será necessário escrever a introdução do documento, definir o problema, especificar os objetivos, avaliar produtos     alternativos, definir o publico alvo, criar personas, escrever a história de usuários e especificar requisitos e restrições.
   
-    Planejamento
-    03-Metodologia
-    04-Projeto de Interface
-    Execução
-    Evidências
-    
-  Sprint 3
+  ![image](https://user-images.githubusercontent.com/101727981/232830766-f48651e5-9172-4d2f-bb58-9fc4c3930900.png)
   
-    Planejamento
-    05-Template padrão do Site
-    06-Programação de Funcionalidades
-    Execução
-    Evidências
+  Evidências: 01-Documentação de Contexto; 02-Especificação de requisitoso.
+    
+### Sprint 2
+  
+  Planejamento: O planejamento da Sprint 2 aborta definir a metodologia e o projeto de Interface
+    
+    Execução: Para conclusão desta sprint será necessário descrever a metodologia de trabalho do grupo, apresentar a divisão de papeis entre os membros do grupo, descrever informações sobre detalhes da implementação do processo, apresentar as principais interfaces da plataforma, criar o fluxo de usuário, criar o wireframe (prototipo de interface)
+    
+  Evidências:
+    
+ ### Sprint 3
+  
+  Planejamento: O planejamento da Sprint 2 aborta definir o template padrão do Site e a programação de Funcionalidades
+    
+  Execução:
+    
+  Evidências:
 
-  Sprint 4
+ ### Sprint 4
   
-    Planejamento
-    07-Plano de Testes de Software
-    08-Registro de Testes de Software
-    Execução
-    Evidências
+  Planejamento: O planejamento da Sprint 2 aborta definir o pano de Testes de Software e o registro de Testes de Software
     
-  Sprint 5
+  Execução:
+    
+  Evidências:
+    
+ ### Sprint 5
   
-    Planejamento
-    09-Implantação da solução
-    10-Apresentação do Projeto
-    Execução
-    Evidências
+  Planejamento: O planejamento da Sprint 2 aborta definir a implantação da solução e a apresentação do Projeto
+    
+  Execução:
+    
+  Evidências:
 
 ### Ferramentas
 
