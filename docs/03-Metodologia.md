@@ -48,22 +48,56 @@ Com essas metodologias, espera-se ter um melhor controle sobre o andamento do pr
 ### Processo
 
  Product backlog
+01-Documentação de Contexto
+02-Especificação de requisitoso
+03-Metodologia
+04-Projeto de Interface
+05-Template padrão do Site
+06-Programação de Funcionalidades
+07-Plano de Testes de Software
+08-Registro de Testes de Software
+09-Implantação da solução
+10-Apresentação do Projeto
  
   Sprint 1
   
-    Planejamento
-    Execução
+    Planejamento:
+    01-Documentação de Contexto
+    02-Especificação de requisitos
+    
+    Execução:
+    Para conclusão desta sprint foi necessário escrever a introdução do documento, 
     Evidências
     
   Sprint 2
   
     Planejamento
+    03-Metodologia
+    04-Projeto de Interface
     Execução
     Evidências
     
   Sprint 3
   
     Planejamento
+    05-Template padrão do Site
+    06-Programação de Funcionalidades
+    Execução
+    Evidências
+
+  Sprint 4
+  
+    Planejamento
+    07-Plano de Testes de Software
+    08-Registro de Testes de Software
+    Execução
+    Evidências
+    
+  Sprint 5
+  
+    Planejamento
+    09-Implantação da solução
+    10-Apresentação do Projeto
     Execução
     Evidências
 
