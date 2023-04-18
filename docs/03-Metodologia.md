@@ -63,7 +63,7 @@ Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitos
   
   Planejamento: O planejamento da Sprint 2 aborta definir a metodologia e o projeto de Interface
     
-  Execução: Para conclusão desta sprint será necessário descrever a metodologia de trabalho do grupo, apresentar a divisão de papeis entre os membros do grupo, descrever informações sobre detalhes da implementação do processo, apresentar as principais interfaces da plataforma, criar o fluxo de usuário, criar o wireframe (prototipo de interface)
+ Execução: Para conclusão desta sprint será necessário descrever a metodologia de trabalho do grupo, apresentar a divisão de papeis entre os membros do grupo,    descrever informações sobre detalhes da implementação do processo, apresentar as principais interfaces da plataforma, criar o fluxo de usuário, criar o wireframe (prototipo de interface)
     
   Evidências:
     
