@@ -10,7 +10,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | --- | --- | --- |
 | Repositório de código fonte |	GitHub	| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque |
 | Documentos do projeto |	GitHub	| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/tree/main/docs | 
-| Projeto de Interface e Wireframes |	Lucidchart, Lunacy	| https://lucid.app/lucidchart/2d543123-4d89-429f-bef7-9d0b025bbb09/edit?viewport_loc=-133%2C12%2C2059%2C898%2C0_0&invitationId=inv_efed65b9-b80f-41e8-8e2d-6f08f825508b  https://lun-br.icons8.com/d/qWyQQVDxfE2iGaWu8FDbdw?page=ePRbKxp-50yDlM-ftuOV8g&vp=431,-340,1102,892|
+| Projeto de Interface e Wireframes |	Lucidchart, Lunacy	| https://lucid.app/lucidchart/2d543123-4d89-429f-bef7-9d0b025bbb09/edit?viewport_loc=-133%2C12%2C2059%2C898%2C0_0&invitationId=inv_efed65b9-b80f-41e8-8e2d-6f08f825508b  https://lun-br.icons8.com/d/5-MfkOUzl0exGLVfovrBiw?page=ePRbKxp-50yDlM-ftuOV8g&vp=431,4935,1377,1115.
 | Gerenciamento do Projeto	| GitHub	|   |
 
 
