@@ -35,7 +35,7 @@ Cada uma dessas etapas é fundamental para manter um bom controle de estoque e e
 
 Conforme telas anteriores, apresentando o fluxo e telas fundamentais do sistema. Segue detalhes de cada função do projeto de gestão de estoque e as telas das suas respectivas funções:
 
-
+![Wireframe](https://user-images.githubusercontent.com/127454796/233856770-b65e3fe9-4a35-478a-a63e-87dd873bc29c.png)
 
 **Permitir que o usuário faça login:**
 
