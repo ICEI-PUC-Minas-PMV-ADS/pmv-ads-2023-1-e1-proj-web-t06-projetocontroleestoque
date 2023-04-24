@@ -53,7 +53,7 @@ Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitos
   
   Planejamento: O planejamento da Sprint 1 aborta a escrita da documentação de Contexto e especificação de requisitos.
     
-  Execução: Para conclusão desta sprint será necessário escrever a introdução do documento, definir o problema, especificar os objetivos, avaliar produtos     alternativos, definir o publico alvo, criar personas, escrever a história de usuários e especificar requisitos e restrições.
+  Execução: Para conclusão desta sprint foi necessário escrever a introdução do documento, definir o problema, especificar os objetivos, avaliar produtos     alternativos, definir o publico alvo, criar personas, escrever a história de usuários e especificar requisitos e restrições.
   
   ![image](https://user-images.githubusercontent.com/101727981/232830766-f48651e5-9172-4d2f-bb58-9fc4c3930900.png)
   
@@ -63,7 +63,7 @@ Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitos
   
   Planejamento: O planejamento da Sprint 2 aborta definir a metodologia e o projeto de Interface
     
- Execução: Para conclusão desta sprint será necessário descrever a metodologia de trabalho do grupo, apresentar a divisão de papeis entre os membros do grupo,    descrever informações sobre detalhes da implementação do processo, apresentar as principais interfaces da plataforma, criar o fluxo de usuário, criar o wireframe (prototipo de interface)
+ Execução: Para conclusão desta sprint foi necessário descrever a metodologia de trabalho do grupo, apresentar a divisão de papeis entre os membros do grupo, descrever informações sobre detalhes da implementação do processo, apresentar as principais interfaces da plataforma, criar o fluxo de usuário, criar o wireframe (prototipo de interface)
     
   Evidências:
     
