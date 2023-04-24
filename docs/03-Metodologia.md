@@ -51,7 +51,7 @@ Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitos
  
 ### Sprint 1
   
-  Planejamento: O planejamento da Sprint 1 aborta a escrita da documentação de Contexto e especificação de requisitos.
+  Planejamento: O planejamento da Sprint 1 aborda a escrita da documentação de Contexto e especificação de requisitos.
     
   Execução: Para conclusão desta sprint foi necessário escrever a introdução do documento, definir o problema, especificar os objetivos, avaliar produtos     alternativos, definir o publico alvo, criar personas, escrever a história de usuários e especificar requisitos e restrições.
   
