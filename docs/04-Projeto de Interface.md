@@ -6,8 +6,7 @@ Projeto de interface é o processo de planejar e criar a aparência visual e a i
 O objetivo do projeto de interface é tornar a experiência do usuário o mais intuitiva e eficiente possível, facilitando a realização das tarefas necessárias e proporcionando uma visão clara e acessível das informações relevantes.
 
 ## Fluxo do Usuário
-![PROJETO - ESTOQUE (1)](https://user-images.githubusercontent.com/115134851/234021473-84267dd5-72df-4d13-99d8-9be556ea96f0.png)
-
+![PROJETO - ESTOQUE](https://user-images.githubusercontent.com/122751654/235789264-d7603b6b-198f-4d8a-af74-147a995f149e.png)
 
 A seguir é apresentado um fluxo de interação do usuário com as telas do sistema, mostrando cada tela necessária para o gerenciamento de estoque:
 
