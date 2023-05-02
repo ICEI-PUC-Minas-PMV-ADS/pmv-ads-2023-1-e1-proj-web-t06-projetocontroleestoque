@@ -24,7 +24,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 A equipe está organizada da seguinte maneira:
 
 ●	Scrum Master: 
-  Erica Lucia dos Santos
+  Samara Karoline de Almeida Costa
 
 ●	Product Owner: 
   Marco Azevedo
