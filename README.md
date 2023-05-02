@@ -10,7 +10,6 @@ O projeto de controle de estoque tem como intuito controlar o estoque das empres
 
 ## Integrantes
 
-* Erica Lucia dos Santos
 * Marco Azevedo
 * Anderson Nascimetno Souza
 * Bianca Nicoly Dias Matos
