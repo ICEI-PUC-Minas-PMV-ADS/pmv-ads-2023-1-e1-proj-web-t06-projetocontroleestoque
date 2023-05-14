@@ -22,7 +22,11 @@ O projeto de controle de estoque tem como intuito controlar o estoque das empres
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Primeira funcionalidade:
+
+Utilizar usuário: admin e senha: admin
+
+A primeira funcionalidade testa se os campos de login e senha batem com os dados oferecidos no arquivo js. Isso é, no array de usuários, caso sim, ele retorna uma mensagem.
 
 # Documentação
 
