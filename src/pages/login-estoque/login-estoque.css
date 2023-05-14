@@ -1,0 +1,53 @@
+body {
+    background-image: url('https://digital.intermodal.com.br/sites/intermodal.com/files/styles/article_featured_standard/public/Inteligncia%20Artificial%20na%20otimizao%20da%20gesto%20de%20estoque.jpeg?itok=ckTzhAmz');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.login-form{
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    font-size: 16px;
+}
+.button-login {
+    background-color: #4682B4;
+    color: white;
+    padding: 10px 178px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button-cadastrar
+    :hover {
+    background-color: #45a049;
+}
+.link {
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 20px;
+}
