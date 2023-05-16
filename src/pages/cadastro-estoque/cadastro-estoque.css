@@ -1,28 +1,33 @@
 
 		body {
-			background-image: url('https://digital.intermodal.com.br/sites/intermodal.com/files/styles/article_featured_standard/public/Inteligncia%20Artificial%20na%20otimizao%20da%20gesto%20de%20estoque.jpeg?itok=ckTzhAmz');
+			background-image: url(/src/pages/cadastro-estoque/Imagens/low-poly-grid-haikei\ \(1\).svg);
 			background-size: cover;
 			font-family: Arial, sans-serif;
-		}
-		
+		}	
 		h1 {
 			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 			font-size: 48px;
-			color: white;
+			color: #e6e5e5c1;
 			text-align: center;
 			margin-top: 100px;
-			text-shadow: 2px 2px 4px #000000;
-		}
 
+		}
 		.login-form{
-			background-color: rgba(255, 255, 255, 0.7);
+			background-color: #524e4e91;
 			padding: 20px;
 			max-width: 400px;
+			height: 350px;
 			margin: auto;
 			margin-top: 50px;
 			border-radius: 10px;
+			color: #bcdbdf;
 		}
+		.login-form a {
+			margin-top: 5px;
+			color: #bcdbdf;
+		}		
 		.input {
+			background-color: #ccc;
 			width: 100%;
 			padding: 10px;
 			margin: 5px 0;
@@ -34,19 +39,19 @@
 			outline: none;
 		}
 		.button-cadastrar {
-			background-color: #4682B4;
+			background-color: #232424a2;
 			color: white;
-			padding: 10px 20px;
-			margin: 10px 0;
+			padding: 10px 150px;
+			margin: 0 auto;
+			margin-top: 15px;
 			border: none;
 			border-radius: 5px;
 			cursor: pointer;
 			font-size: 16px;
-			float: right;
+			display: block;			
 		}
-		.button-cadastrar
-			:hover {
-			background-color: #45a049;
+		.button-cadastrar:hover {
+			background-color: #2d3035a2;
 		}
 		.link {
 			display: block;

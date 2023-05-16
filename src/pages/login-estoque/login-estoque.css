@@ -54,11 +54,6 @@ body {
     background-color: #2d3035a2;
 }
 
-.button-cadastrar
-    :hover {
-    background-color: #45a049;
-}
-
 .link {
     display: block;
     text-align: center;
