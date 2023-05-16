@@ -16,23 +16,22 @@
 <body>
 	<h1>Estoque Fácil</h1>
 	<form class="login-form">
-		<label for="nome">Nome:</label>
+		<label id="labelNome" for="nome">Nome:</label>
 		<input class="input" type="text" id="nome" name="nome" required>
 
-		<label for="sobrenome">Sobrenome:</label>
-		<input class="input" type="text" id="sobrenome" name="sobrenome" required>
+		<label id="labelUsuario" for="usuario">Usuario:</label>
+		<input class="input" type="text" id="usuario" name="sobrenome" required>
 
-		<label for="email">E-mail:</label>
-		<input class="input" type="email" id="email" name="email" required>
-
-		<label for="senha">Senha:</label>
+		<label id="labelSenha" for="senha">Senha:</label>
 		<input class="input"type="password" id="senha" name="senha" required>
 
-		<button class="button-cadastrar">Cadastrar</button>
+		<label id="labelConfirmarSenha" for="ConfirmarSenha">Confirme a senha:</label>
+		<input class="input"type="password" id="ConfirmarSenha" name="ConfirmarSenha" required>
 
-		</button>
+		<button class="button-cadastrar" onclick="cadastrar()">Cadastrar</button>
 
 		<a href="/src/pages/login-estoque/login-estoque.html" class="link">Já tem cadastro? Faça login aqui.</a>
 	</form>
+	<script src="cadastro-estoque.js"></script>
 </body>
 </html>
