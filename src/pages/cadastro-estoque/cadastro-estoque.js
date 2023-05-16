@@ -16,13 +16,11 @@ let validConfirmarSenha = false
 
 nome.addEventListener('keyup', () => {
     if(nome.value.length <= 2){
-        labelNome.setAttribute('style', 'color: red')
-        labelNome.innerHTML = '<strong>Nome: *Insira no minimo 3 caracteres</strong>'
+        labelNome.innerHTML = 'Nome: *Insira no minimo 3 caracteres'
         nome.setAttribute('style', 'border-color: red')
         validNome = false
 
     } else {
-        labelNome.setAttribute('style', 'color: green')
         labelNome.innerHTML = 'Nome: '
         nome.setAttribute('style', 'border-color: green')
         validNome = true
@@ -31,13 +29,11 @@ nome.addEventListener('keyup', () => {
 
 usuario.addEventListener('keyup', () => {
     if(usuario.value.length <= 4){
-        labelUsuario.setAttribute('style', 'color: red')
-        labelUsuario.innerHTML = '<strong>Usuario: *Insira no minimo 5 caracteres</strong>'
+        labelUsuario.innerHTML = 'Usuario: *Insira no minimo 5 caracteres'
         usuario.setAttribute('style', 'border-color: red')
         validUsuario = false
 
     } else {
-        labelUsuario.setAttribute('style', 'color: green')
         labelUsuario.innerHTML = 'Usuario: '
         usuario.setAttribute('style', 'border-color: green')
         validUsuario = true
@@ -46,13 +42,11 @@ usuario.addEventListener('keyup', () => {
 
 senha.addEventListener('keyup', () => {
     if(senha.value.length <= 5){
-        labelSenha.setAttribute('style', 'color: red')
-        labelSenha.innerHTML = '<strong>Senha: *Insira no minimo 6 caracteres</strong>'
+        labelSenha.innerHTML = 'Senha: *Insira no minimo 6 caracteres'
         senha.setAttribute('style', 'border-color: red')
         validSenha = false
 
     } else {
-        labelSenha.setAttribute('style', 'color: green')
         labelSenha.innerHTML = 'Senha: '
         senha.setAttribute('style', 'border-color: green')
         validSenha = true
@@ -61,13 +55,11 @@ senha.addEventListener('keyup', () => {
 
 ConfirmarSenha.addEventListener('keyup', () => {
     if(senha.value != ConfirmarSenha.value){
-        labelConfirmarSenha.setAttribute('style', 'color: red')
-        labelConfirmarSenha.innerHTML = '<strong>Confirme a senha: *As senhas não conferem</strong>'
+        labelConfirmarSenha.innerHTML = 'Confirme a senha: *As senhas não conferem'
         ConfirmarSenha.setAttribute('style', 'border-color: red')
         validConfirmarSenha = false
 
     } else {
-        labelConfirmarSenha.setAttribute('style', 'color: green')
         labelConfirmarSenha.innerHTML = 'Confirme a senha: '
         ConfirmarSenha.setAttribute('style', 'border-color: green')
         validConfirmarSenha = true
