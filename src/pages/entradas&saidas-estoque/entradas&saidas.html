@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Samara Almeida">
+    <meta name="description" content="Registro de entradas e saídas - Estoque">
+    <meta name="keywords" content="Estoque, Gerenciamento, Produtos">
+
+    <link rel="stylesheet" type="text/css" href="./entradas&saidas.css">
+</head>
+
+<body>
+    <a class="pagina-inicial" href="../pagina-principal/pagina-principal.html">Página Inicial</a>
+    <div class="form-body">
+        <div class="form-title">
+            <h1>Registro de Entradas e Saídas</h1>
+        </div>
+        <form class="form-content">
+            <label id="labelProduto" for="nomeProduto">Nome do produto</label>
+            <input class="input" type="text" id="nomeProduto" name="nomeProduto" required>
+
+            <label id="labelQuantidade" for="quantidade">Quantidade</label>
+            <input class="input" type="number" id="quantidade" name="quantidade" required>
+
+            <label id="labelNumeracao" for="numeracao">Numeração</label>
+            <input class="input" type="text" id="numeracao" name="numeracao" required>
+
+            <label id="labelCusto" for="precoCusto">Preço de custo</label>
+            <input class="input" type="text" id="precoCusto" name="precoCusto" required>
+
+            <label id="labelVenda" for="precoVenda">Preço de venda</label>
+            <input class="input" type="text" id="precoVenda" name="precoVenda" required>
+
+            <label id="labelData" for="data">Data</label>
+            <input class="input" type="date" id="data" name="data" required>
+
+            <label id="labelTipo" for="tipo">Tipo</label>
+            <input class="input" type="text" id="tipo" name="tipo" required>
+
+            <button class="button-registrar">REGISTRAR</button>
+        </form>
+    </div>
+
+</body>
+
+
+</html>
