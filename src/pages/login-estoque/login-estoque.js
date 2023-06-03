@@ -1,3 +1,4 @@
+
 function entrar() {
     let usuarioLabel = document.querySelector('#usuarioLabel')
     let usuario = document.querySelector('#usuario')
@@ -6,7 +7,7 @@ function entrar() {
     let senha = document.querySelector('#senha')
     
     if(usuario.value=='' || senha.value=='') {
-    	alert( "Preencha o usuário e a senha!");
+    	alert("Preencha o usuário e a senha!");
       return;
     }
     

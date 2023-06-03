@@ -61,19 +61,23 @@ Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitos
     
 ### Sprint 2
   
-  Planejamento: O planejamento da Sprint 2 aborta definir a metodologia e o projeto de Interface
+  Planejamento: O planejamento da Sprint 2 aborta definir a metodologia e o projeto de Interface.
     
- Execução: Para conclusão desta sprint foi necessário descrever a metodologia de trabalho do grupo, apresentar a divisão de papeis entre os membros do grupo, descrever informações sobre detalhes da implementação do processo, apresentar as principais interfaces da plataforma, criar o fluxo de usuário, criar o wireframe (prototipo de interface)
+ Execução: Para conclusão desta sprint foi necessário descrever a metodologia de trabalho do grupo, apresentar a divisão de papeis entre os membros do grupo, descrever informações sobre detalhes da implementação do processo, apresentar as principais interfaces da plataforma, criar o fluxo de usuário, criar o wireframe (prototipo de interface).
+ 
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/edb767bd-acf2-401e-97bd-d38b7bb90556)
     
-  Evidências:
+  Evidências: 04-Projeto de Interface
     
  ### Sprint 3
   
-  Planejamento: O planejamento da Sprint 2 aborta definir o template padrão do Site e a programação de Funcionalidades
+  Planejamento: O planejamento da Sprint 2 aborta definir o template padrão do Site e a programação de Funcionalidades.
     
-  Execução:
+  Execução: Para conclusão desta sprint foi necessário elaborar o template padrão do site e iniciar o desenvolvimento e implementação de ao menos uma funcionalidade. Optamos por deixar a tela de cadastro funcional criando uma espécie de banco de dados com o LocalStorage.
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/3c09f941-e753-42bc-91e6-1e978d37864b)
     
-  Evidências:
+  Evidências: 06-Template Padrão do Site
 
  ### Sprint 4
   
