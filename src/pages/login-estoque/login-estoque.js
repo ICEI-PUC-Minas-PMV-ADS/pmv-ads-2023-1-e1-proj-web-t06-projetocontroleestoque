@@ -7,10 +7,9 @@ function entrar() {
     let senha = document.querySelector('#senha')
     
     if(usuario.value=='' || senha.value=='') {
-    	alert( "Preencha o usuário e a senha");
+    	alert("Preencha o usuário e a senha!");
       return;
     }
-    
     
     let listaUser = []
 
@@ -21,11 +20,6 @@ function entrar() {
     }
 
     listaUser = JSON.parse(localStorage.getItem('listaUser'))
-
-    if(!listaUser) {
-        alert('Usuário ou senha incorretos!');
-        return;
-    }
             
     listaUser.forEach((item) => {   
         if (usuario.value == item.user && senha.value == item.senha) {
@@ -38,7 +32,7 @@ function entrar() {
     })
 
     if (usuario.value == userValid.user && senha.value == userValid.senha) {
-       window.location.href = '../pagina-principal/pagina-principal.html'
+       window.location.href = '../dashboard-estoque/dashboard-estoque.html'
     }
     else {
         alert('Usuário ou senha incorretos!')

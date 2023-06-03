@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Samara Almeida">
+    <meta name="description" content="Registro de entradas e saídas - Estoque">
+    <meta name="keywords" content="Estoque, Gerenciamento, Produtos">
+
+    <link rel="stylesheet" type="text/css" href="./entrada-produtos.css">
+</head>
+
+<body>
+    <a class="pagina-inicial" href="../dashboard-estoque/dashboard-estoque.html">Página Inicial</a>
+    <div class="form-body">
+        <div class="form-title">
+            <h1>Registro de Compra de Produtos</h1>
+        </div>
+        <div class="form-content">
+
+            <label id="labelProduto" for="nomeProduto">Nome do produto</label>
+            <input class="input" type="text" id="nomeProduto" name="nomeProduto" required>
+
+            <label id="labelQuantidade" for="quantidade">Quantidade</label>
+            <input class="input" type="text" id="quantidade" name="quantidade" required>
+
+            <label id="labelNumeracao" for="numeracao">Numeração</label>
+            <input class="input" type="text" id="numeracao" name="numeracao" required>
+
+            <label id="labelCompra" for="precoCompra">Preço de compra</label>
+            <input class="input" type="text" id="precoCompra" name="precoCompra" required>
+
+            <label id="labelData" for="data">Data</label>
+            <input class="input" type="text" id="data" name="data" required>
+
+            <label id="labelObservacao" for="observacao">Observações</label>
+            <input class="input" type="text" id="observacao" name="observacao">
+
+            <button class="button-registrar" onclick="registrar()">REGISTRAR</button>
+        </div>
+    </div>
+    <script src="./entrada-produtos.js"></script>
+</body>
+
+
+</html>
