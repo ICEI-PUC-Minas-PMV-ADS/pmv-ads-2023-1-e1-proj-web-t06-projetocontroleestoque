@@ -1,3 +1,5 @@
+console('v1.0');
+
 let labelProduto = document.querySelector('#labelProduto')
 let nomeProduto = document.querySelector('#nomeProduto')
 let validNomeProduto = false
@@ -86,9 +88,24 @@ data.addEventListener('keyup', () => {
     }
 })
 
+
+// Preencher select
+nomnumProduto.innerHTML = '';
+let produtos = JSON.parse(localStorage.getItem('produtosCadCompra') || '[]');
+for( let i in produtos ) {
+     nomnumProduto.innerHTML += `
+        <option value=${i}>${produtos[i].nomeProduto} (Numeração: ${produtos[i].numeracao})</option>
+    `;
+} 
+
+
 function registrar() {
 
-    if (validNomeProduto && validQuantidade && validNumeracao && validPrecoCompra && validData) {
+    let i = nomnumProduto.value;
+    console.log(produtos[i]);
+    
+    /*
+    if (validQuantidade && validPrecoCompra && validData) {
         let produtosCadCompra = JSON.parse(localStorage.getItem('produtosCadCompra') || '[]')
 
         produtosCadCompra.push(
@@ -105,7 +122,7 @@ function registrar() {
         localStorage.setItem('produtosCadCompra', JSON.stringify(produtosCadCompra))
 
         alert('Cadastro efetuado com sucesso!')
-
+      */
     } else {
         alert('Preencha todos os campos antes de continuar!')
     }
