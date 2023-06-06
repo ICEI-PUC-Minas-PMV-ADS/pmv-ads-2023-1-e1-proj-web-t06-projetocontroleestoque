@@ -1,4 +1,4 @@
-console.log('v1.1');
+console.log('v1.2');
 
 let labelProduto = document.querySelector('#labelProduto')
 let nomeProduto = document.querySelector('#nomeProduto')
@@ -93,9 +93,11 @@ data.addEventListener('keyup', () => {
 })
 
 
-// Preencher select
-nomnumProduto.innerHTML = '';
+// RECUPERA O BANCO DE DADOS
 let produtos = JSON.parse(localStorage.getItem('produtosCadCompra') || '[]');
+
+// PREENCHE CAMPO DE PRODUTOS E NUMERAÇÕES
+nomnumProduto.innerHTML = '';
 for( let i in produtos ) {
      nomnumProduto.innerHTML += `
         <option value=${i}>${produtos[i].nomeProduto} (Numeração: ${produtos[i].numeracao})</option>
@@ -106,17 +108,13 @@ for( let i in produtos ) {
 function registrar() {
 
     let i = nomnumProduto.value;
-    console.log(produtos[i]);
     
-    /*
     if (validQuantidade && validPrecoCompra && validData) {
-        let produtosCadCompra = JSON.parse(localStorage.getItem('produtosCadCompra') || '[]')
 
-        produtosCadCompra.push(
+        produtos[i].estoque.push(
             {
-                nomeProduto: nomeProduto.value,
+                tipo: 'Entrada',
                 quantidade: quantidade.value,
-                numeracao: numeracao.value,
                 precoCompra: precoCompra.value,
                 data : data.value,
                 observacao : observacao.value
@@ -130,7 +128,7 @@ function registrar() {
     } else {
         alert('Preencha todos os campos antes de continuar!')
     }
-  */
+  
 }
 
 
