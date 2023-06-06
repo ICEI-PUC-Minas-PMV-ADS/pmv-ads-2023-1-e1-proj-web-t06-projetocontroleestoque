@@ -122,11 +122,11 @@ function registrar() {
         localStorage.setItem('produtosCadCompra', JSON.stringify(produtosCadCompra))
 
         alert('Cadastro efetuado com sucesso!')
-      */
+     
     } else {
         alert('Preencha todos os campos antes de continuar!')
     }
-
+  */
 }
 
 
