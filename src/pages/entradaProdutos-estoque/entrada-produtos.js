@@ -23,6 +23,7 @@ let validData = false
 let labelObservacao = document.querySelector('#labelObservacao')
 let observacao = document.querySelector('#observacao');
 
+/*
 nomeProduto.addEventListener('keyup', () => {
     if (nomeProduto.value.length <= 4 || nomeProduto.value == '') {
         labelProduto.innerHTML = 'Nome do produto *Insira o nome do produto (mínimo 4 caracteres).'
@@ -35,6 +36,7 @@ nomeProduto.addEventListener('keyup', () => {
         validNomeProduto = true
     }
 })
+*/
 
 quantidade.addEventListener('keyup', () => {
     if (quantidade.value == "0" || quantidade.value < 0 || quantidade.value == '') {
@@ -49,6 +51,7 @@ quantidade.addEventListener('keyup', () => {
     }
 })
 
+/*
 numeracao.addEventListener('keyup', () => {
     if (numeracao.value == '') {
         labelNumeracao.innerHTML = 'Numeração *Insira a numeração do calçado.'
@@ -61,6 +64,7 @@ numeracao.addEventListener('keyup', () => {
         validNumeracao = true
     }
 })
+*/
 
 precoCompra.addEventListener('keyup', () => {
     if (precoCompra.value == '' || precoCompra.value == "0") {
