@@ -1,4 +1,4 @@
-console('v1.0');
+console.log('v1.0');
 
 let labelProduto = document.querySelector('#labelProduto')
 let nomeProduto = document.querySelector('#nomeProduto')
@@ -21,7 +21,7 @@ let data = document.querySelector('#data')
 let validData = false
 
 let labelObservacao = document.querySelector('#labelObservacao')
-let observacao = document.querySelector('#observacao')
+let observacao = document.querySelector('#observacao');
 
 nomeProduto.addEventListener('keyup', () => {
     if (nomeProduto.value.length <= 4 || nomeProduto.value == '') {
