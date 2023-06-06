@@ -14,7 +14,6 @@ O projeto de controle de estoque tem como intuito controlar o estoque das empres
 * Anderson Nascimetno Souza
 * Bianca Nicoly Dias Matos
 * Samara Karoline De Almeida Costa
-* Bruna Bricio Alvarenga Sampaio
 
 ## Orientador
 
@@ -22,11 +21,20 @@ O projeto de controle de estoque tem como intuito controlar o estoque das empres
 
 ## Instruções de utilização
 
-Primeira funcionalidade:
+Funcionalidade de cadastro:
+Para fazer um cadastro na página basta informar o seu nome, criar um usuário e uma senha e apertar no botão de "CADASTRAR". 
 
-Utilizar usuário: admin e senha: admin
+Funcionalidade de login:
+Assim que tiver efetuado o cadastro, para fazer o login basta informar o mesmo usuário e senha cadastrados e apertar no botão "ENTRAR". 
 
-A primeira funcionalidade testa se os campos de login e senha batem com os dados oferecidos no arquivo js. Isso é, no array de usuários, caso sim, ele retorna uma mensagem.
+Funcionalide de cadastro de produtos:
+Nesta tela o usuário irá informar o nome do produto que deseja cadastrar e a numeração. Será feita uma verificação se já não existe um produto de mesmo nome e nuemeração, caso não haja será feito o cadastro normalmente e caso este produto já exista é sugerido ao usuário que registre novas quantidades do produto por meio do formulário de Registro de Compra de Produtos.
+
+Funcionalidade de Registro de Compra de Produtos:
+Este formulário tem o intuito de registrar a chegada de nova remessa de um produto já cadastrado previamente, para utilizá-lo de forma correta basta informar os dados que foram solicitados e apertar no botão "REGISTRAR".
+
+Funcionalide de Registro de Venda de Produtos:
+Ao contrário do formulário de Compra de Produtos, o formulário de Venda de Produtos deve ser usado para registrar quando há saída de produtos do estoque, ou seja, quando estes produtos são vendidos. Assim como o formulário de Compra de Produtos para utilizá-lo o usuário deve apenas digitar os dados que são pedidos e apertar no botão "REGISTRAR".
 
 # Documentação
 
