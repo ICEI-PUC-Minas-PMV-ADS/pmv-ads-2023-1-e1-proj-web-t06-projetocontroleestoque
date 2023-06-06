@@ -30,7 +30,7 @@ A equipe está organizada da seguinte maneira:
   Marco Azevedo
 
 ●	Equipe de Desenvolvimento: 
-  Anderson Nascimento Souza, Marco Azevedo, Samara Karoline De Almeida Costa
+  Anderson Nascimento Souza, Marco Azevedo e Samara Karoline De Almeida Costa
 
 ●	Equipe de Design: 
   Bianca Nicoly Dias Matos
