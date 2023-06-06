@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+textarea:focus,
+input:focus, 
+select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+} 
+
+body {
+    background-image: url(./Imagens/sl_043021_42650_09.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-title {
+    color: rgba(233, 33, 33, 0.836);
+    text-align: center;
+    margin-top: 75px;
+}
+
+.form-body {
+    background-color: white;
+    max-width: 450px;
+    margin: auto;
+    border-radius: 10px;
+    color: rgba(29, 31, 31, 0.945);
+}
+
+.form-body h1 {
+    padding-top: 15px;
+}
+
+.input,
+#tipo {
+    background-color: rgba(255, 255, 255, 0.871);
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: none;
+    box-shadow: 1px 1px 6px #2e282836;
+}
+
+.form-content {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    margin: auto;
+}
+
+.button-cadastrar {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(233, 33, 33, 0.836);
+    cursor: pointer;
+    color: white;
+    border: none;
+}
+
+.button-cadastrar:hover {
+    background-color: rgba(216, 47, 47, 0.84);
+}
+
+.pagina-inicial {
+    text-decoration: none;
+    background-color: rgba(233, 33, 33, 0.836);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    width: max-content;
+    letter-spacing: 2px;
+    display: inline-block;
+    margin: 10px 10px;
+}
+
+.pagina-inicial:hover {
+    background-color: rgba(216, 47, 47, 0.84);
+}

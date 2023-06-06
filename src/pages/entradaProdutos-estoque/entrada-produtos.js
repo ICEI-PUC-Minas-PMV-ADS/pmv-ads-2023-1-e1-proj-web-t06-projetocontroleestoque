@@ -87,6 +87,7 @@ data.addEventListener('keyup', () => {
 })
 
 function registrar() {
+
     if (validNomeProduto && validQuantidade && validNumeracao && validPrecoCompra && validData) {
         let produtosCadCompra = JSON.parse(localStorage.getItem('produtosCadCompra') || '[]')
 
