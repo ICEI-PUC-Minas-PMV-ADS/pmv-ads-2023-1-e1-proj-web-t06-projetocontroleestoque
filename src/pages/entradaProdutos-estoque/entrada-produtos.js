@@ -1,4 +1,4 @@
-console.log('v1.0');
+console.log('v1.1');
 
 let labelProduto = document.querySelector('#labelProduto')
 let nomeProduto = document.querySelector('#nomeProduto')
