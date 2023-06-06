@@ -29,7 +29,7 @@ Para fazer um cadastro na página basta informar o seu nome, criar um usuário e
 
 Assim que tiver efetuado o cadastro, para fazer o login basta informar o mesmo usuário e senha cadastrados e apertar no botão "ENTRAR". 
 
-* Funcionalide de Cadastro de Produtos:
+* Funcionalidade de Cadastro de Produtos:
 
 Nesta tela o usuário irá informar o nome do produto que deseja cadastrar e a numeração. Será feita uma verificação se já não existe um produto de mesmo nome e nuemeração, caso não haja será feito o cadastro normalmente e caso este produto já exista é sugerido ao usuário que registre novas quantidades do produto por meio do formulário de Registro de Compra de Produtos.
 
@@ -37,7 +37,7 @@ Nesta tela o usuário irá informar o nome do produto que deseja cadastrar e a n
 
 Este formulário tem o intuito de registrar a chegada de nova remessa de um produto já cadastrado previamente, para utilizá-lo de forma correta basta informar os dados que foram solicitados e apertar no botão "REGISTRAR".
 
-* Funcionalide de Registro de Venda de Produtos:
+* Funcionalidade de Registro de Venda de Produtos:
 
 Ao contrário do formulário de Compra de Produtos, o formulário de Venda de Produtos deve ser usado para registrar quando há saída de produtos do estoque, ou seja, quando estes produtos são vendidos. Assim como o formulário de Compra de Produtos para utilizá-lo o usuário deve apenas digitar os dados que são pedidos e apertar no botão "REGISTRAR".
 
