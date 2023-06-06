@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Samara Almeida">
+    <meta name="description" content="Cadastro de Novos Produtos - Estoque">
+    <meta name="keywords" content="Estoque, Gerenciamento, Produtos">
+
+    <link rel="stylesheet" type="text/css" href="./cadastroProdutos.css">
+</head>
+
+<body>
+    <a class="pagina-inicial" href="../dashboard-estoque/dashboard-estoque.html">Página Inicial</a>
+    <div class="form-body">
+        <div class="form-title">
+            <h1>Cadastro de Produtos</h1>
+        </div>
+        <div class="form-content">
+
+            <label id="labelProduto" for="nomeProduto">Nome do produto</label>
+            <input class="input" type="text" id="nomeProduto" name="nomeProduto" required>
+
+            <label id="labelNumeracao" for="numeracao">Numeração</label>
+            <input class="input" type="text" id="numeracao" name="numeracao" required>
+
+            <button class="button-cadastrar" onclick="cadastrar()">CADASTRAR</button>
+        </div>
+    </div>
+    <script src="./cadastroProdutos.js"></script>
+</body>
+
+
+</html>
