@@ -1,5 +1,3 @@
-console.log('v1.3');
-
 let labelProduto = document.querySelector('#labelProduto')
 let nomeProduto = document.querySelector('#nomeProduto')
 let validNomeProduto = false
@@ -23,21 +21,6 @@ let validData = false
 let labelObservacao = document.querySelector('#labelObservacao')
 let observacao = document.querySelector('#observacao');
 
-/*
-nomeProduto.addEventListener('keyup', () => {
-    if (nomeProduto.value.length <= 4 || nomeProduto.value == '') {
-        labelProduto.innerHTML = 'Nome do produto *Insira o nome do produto (mínimo 4 caracteres).'
-        nomeProduto.setAttribute('style', 'box-shadow: 1px 1px 2px red')
-        validNomeProduto = false
-
-    } else {
-        labelProduto.innerHTML = 'Nome do produto'
-        nomeProduto.setAttribute('style', 'box-shadow: 1px 1px 2px green')
-        validNomeProduto = true
-    }
-})
-*/
-
 quantidade.addEventListener('keyup', () => {
     if (quantidade.value == "0" || quantidade.value < 0 || quantidade.value == '') {
         labelQuantidade.innerHTML = 'Quantidade *Insira um valor maior do que zero.'
@@ -50,21 +33,6 @@ quantidade.addEventListener('keyup', () => {
         validQuantidade = true
     }
 })
-
-/*
-numeracao.addEventListener('keyup', () => {
-    if (numeracao.value == '') {
-        labelNumeracao.innerHTML = 'Numeração *Insira a numeração do calçado.'
-        numeracao.setAttribute('style', 'box-shadow: 1px 1px 2px red')
-        validNumeracao = false
-
-    } else {
-        labelNumeracao.innerHTML = 'Numeração'
-        numeracao.setAttribute('style', 'box-shadow: 1px 1px 2px green')
-        validNumeracao = true
-    }
-})
-*/
 
 precoCompra.addEventListener('keyup', () => {
     if (precoCompra.value == '' || precoCompra.value == "0") {
@@ -94,7 +62,7 @@ data.addEventListener('keyup', () => {
 
 
 // RECUPERA O BANCO DE DADOS
-let produtos = JSON.parse(localStorage.getItem('produtosCadCompra') || '[]');
+let produtos = JSON.parse(localStorage.getItem('produtosCad') || '[]');
 
 // PREENCHE CAMPO DE PRODUTOS E NUMERAÇÕES
 nomnumProduto.innerHTML = '';
@@ -121,7 +89,7 @@ function registrar() {
             }
         )
 
-        localStorage.setItem('produtosCadCompra', JSON.stringify(produtos))
+        localStorage.setItem('produtosCad', JSON.stringify(produtos))
 
         alert('Cadastro efetuado com sucesso!')
      
@@ -130,76 +98,4 @@ function registrar() {
     }
   
 }
-
-
-/* ALTERAÇÕES SUGERIDAS PELO PROFESSOR: */
-
-/* 1. Ordenar vetor dos produtos: */
-
-/* produtos.cadCompra.sort( (a,b) => {     
-
-    const n1 = a.nomeProduto.toUpperCase();
- 
-    const n2 = b.nomeProduto.toUpperCase();
- 
-    if(n1 < n2)
- 
-         return -1;
- 
-    if(n1 > n2)
- 
-         return 1;
- 
-    // n1 == n2
- 
-    return a.numeracao - b.numeracao;
-
- });
- 
- localStorage.setItem('produtos', JSON.stringify(produtosCadCompra)); */
-
-/* 2. Alteração da function registrar:  */
-
- /* function registrar() {
-    if (validNomeProduto && validQuantidade && validNumeracao && validPrecoCompra && validData) {
-
-        let produtos = JSON.parse(localStorage.getItem('produtos') || '[]');
-
-        let index = document.querySelector('#nomeProduto').value;
-
-        produtos[index].estoque.push(
-            {
-                quantidade: quantidade.value,
-                preco: preco.value,
-                data : data.value,
-                observacao : observacao.value
-            }
-        )
-
-        localStorage.setItem('produtos', JSON.stringify(produtosCadCompra))
-
-        alert('Cadastro efetuado com sucesso!')
-
-    } else {
-        alert('Preencha todos os campos antes de continuar!')
-    }
-
-} */
-
-/* 3. Campo select com preenchimento por JavaScript:  */
-
-{/* <select id='nomeProduto'></select>
-
-let selProduto = document.querySelector('#nomeProduto');
-
-let produtos = JSON.parse(localStorage.getItem('produtos') || '[]');
-
-for( let i in produtos ) {
-
-     selProduto.innerHTML += `<option value=${i}>${produtos[i].nomeProduto} (Numeração: ${produtos[i].numeracao})</option>`;
-
-} 
-*/ }
-
-
 

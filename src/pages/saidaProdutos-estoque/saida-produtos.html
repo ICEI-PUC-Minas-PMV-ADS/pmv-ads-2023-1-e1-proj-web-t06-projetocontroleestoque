@@ -4,6 +4,7 @@
 
 <head>
     <meta charset="utf-8">
+    <title>Estoque Fácil - Venda de Produtos</title>
     <meta name="author" content="Samara Almeida">
     <meta name="description" content="Registro de entradas e saídas - Estoque">
     <meta name="keywords" content="Estoque, Gerenciamento, Produtos">
@@ -19,17 +20,14 @@
         </div>
         <div class="form-content">
 
-            <label id="labelProduto" for="nomeProduto">Nome do produto</label>
-            <input class="input" type="text" id="nomeProduto" name="nomeProduto" required>
+            <label id="labelProduto" for="nomeProduto">Nome e numeração do produto</label>
+            <select id="nomnumProduto"></select>
 
             <label id="labelQuantidade" for="quantidade">Quantidade</label>
             <input class="input" type="text" id="quantidade" name="quantidade" required>
 
-            <label id="labelNumeracao" for="numeracao">Numeração</label>
-            <input class="input" type="text" id="numeracao" name="numeracao" required>
-
-            <label id="labelCompra" for="precoCompra">Preço de venda</label>
-            <input class="input" type="text" id="precoCompra" name="precoCompra" required>
+            <label id="labelVenda" for="precoVenda">Preço de venda</label>
+            <input class="input" type="text" id="precoVenda" name="precoVenda" required>
 
             <label id="labelData" for="data">Data</label>
             <input class="input" type="text" id="data" name="data" required>
