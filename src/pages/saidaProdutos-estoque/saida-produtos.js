@@ -10,8 +10,8 @@ let labelNumeracao = document.querySelector('#labelNumeracao')
 let numeracao = document.querySelector('#numeracao')
 let validNumeracao = false
 
-let labelVenda = document.querySelector('#labelCompra')
-let precoVenda = document.querySelector('#precoCompra')
+let labelVenda = document.querySelector('#labelVenda')
+let precoVenda = document.querySelector('#precoVenda')
 let validPrecoVenda = false
 
 let labelData = document.querySelector('#labelData')
@@ -19,20 +19,7 @@ let data = document.querySelector('#data')
 let validData = false
 
 let labelObservacao = document.querySelector('#labelObservacao')
-let observacao = document.querySelector('#observacao')
-
-nomeProduto.addEventListener('keyup', () => {
-    if (nomeProduto.value.length <= 4 || nomeProduto.value == '') {
-        labelProduto.innerHTML = 'Nome do produto *Insira o nome do produto (mínimo 4 caracteres).'
-        nomeProduto.setAttribute('style', 'box-shadow: 1px 1px 2px red')
-        validNomeProduto = false
-
-    } else {
-        labelProduto.innerHTML = 'Nome do produto'
-        nomeProduto.setAttribute('style', 'box-shadow: 1px 1px 2px green')
-        validNomeProduto = true
-    }
-})
+let observacao = document.querySelector('#observacao');
 
 quantidade.addEventListener('keyup', () => {
     if (quantidade.value == "0" || quantidade.value < 0 || quantidade.value == '') {
@@ -47,22 +34,9 @@ quantidade.addEventListener('keyup', () => {
     }
 })
 
-numeracao.addEventListener('keyup', () => {
-    if (numeracao.value == '') {
-        labelNumeracao.innerHTML = 'Numeração *Insira a numeração do calçado.'
-        numeracao.setAttribute('style', 'box-shadow: 1px 1px 2px red')
-        validNumeracao = false
-
-    } else {
-        labelNumeracao.innerHTML = 'Numeração'
-        numeracao.setAttribute('style', 'box-shadow: 1px 1px 2px green')
-        validNumeracao = true
-    }
-})
-
 precoVenda.addEventListener('keyup', () => {
     if (precoVenda.value == '' || precoVenda.value == "0") {
-        labelVenda.innerHTML = 'Preço de venda *Insira o preço de compra.'
+        labelVenda.innerHTML = 'Preço de venda *Insira o preço de venda.'
         precoVenda.setAttribute('style', 'box-shadow: 1px 1px 2px red')
         validPrecoVenda = false
 
@@ -86,27 +60,41 @@ data.addEventListener('keyup', () => {
     }
 })
 
-function registrar() {
-    if (validNomeProduto && validQuantidade && validNumeracao && validPrecoVenda && validData) {
-        let produtosCadVenda = JSON.parse(localStorage.getItem('produtosCadVenda') || '[]')
 
-        produtosCadVenda.push(
+// RECUPERA O BANCO DE DADOS
+let produtos = JSON.parse(localStorage.getItem('produtosCad') || '[]');
+
+// PREENCHE CAMPO DE PRODUTOS E NUMERAÇÕES
+nomnumProduto.innerHTML = '';
+for( let i in produtos ) {
+     nomnumProduto.innerHTML += `
+        <option value=${i}>${produtos[i].nomeProduto} (Numeração: ${produtos[i].numeracao})</option>
+    `;
+} 
+
+
+function registrar() {
+
+    let i = nomnumProduto.value;
+    
+    if (validQuantidade && validPrecoVenda && validData) {
+
+        produtos[i].estoque.push(
             {
-                nomeProduto: nomeProduto.value,
+                tipo: 'Saída',
                 quantidade: quantidade.value,
-                numeracao: numeracao.value,
                 precoVenda: precoVenda.value,
                 data : data.value,
                 observacao : observacao.value
             }
         )
 
-        localStorage.setItem('produtosCadVenda', JSON.stringify(produtosCadVenda))
+        localStorage.setItem('produtosCad', JSON.stringify(produtos))
 
         alert('Cadastro efetuado com sucesso!')
-
+     
     } else {
         alert('Preencha todos os campos antes de continuar!')
     }
-
+  
 }

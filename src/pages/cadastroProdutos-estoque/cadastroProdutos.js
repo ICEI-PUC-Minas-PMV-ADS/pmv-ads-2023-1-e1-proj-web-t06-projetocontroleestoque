@@ -33,8 +33,8 @@ numeracao.addEventListener('keyup', () => {
 })
 
 function cadastrar() {
-    let produtosCadCompra = JSON.parse(localStorage.getItem('produtosCadCompra') || '[]')
-    if (produtosCadCompra.findIndex(p => p.nomeProduto == nomeProduto.value && p.numeracao == numeracao.value) >= 0) {
+    let produtosCad = JSON.parse(localStorage.getItem('produtosCad') || '[]')
+    if (produtosCad.findIndex(p => p.nomeProduto == nomeProduto.value && p.numeracao == numeracao.value) >= 0) {
 
         alert('Produto com o mesmo nome e numeração já cadastrado!')
         alert('Retorne a página inicial e selecione no menu a opção "Registro de Compra de Produtos" para incluir a chegada de nova remessa deste produto.')
@@ -44,7 +44,7 @@ function cadastrar() {
     else {
         if (validNomeProduto && validNumeracao) {
 
-            produtosCadCompra.push(
+            produtosCad.push(
                 {
                     nomeProduto: nomeProduto.value,
 
@@ -54,7 +54,7 @@ function cadastrar() {
                 }
             )
             
-            localStorage.setItem('produtosCadCompra', JSON.stringify(produtosCadCompra))
+            localStorage.setItem('produtosCad', JSON.stringify(produtosCad))
 
             alert('Cadastro efetuado com sucesso!')
         }
