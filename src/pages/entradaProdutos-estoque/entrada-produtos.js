@@ -1,4 +1,4 @@
-console.log('v1.2');
+console.log('v1.3');
 
 let labelProduto = document.querySelector('#labelProduto')
 let nomeProduto = document.querySelector('#nomeProduto')
@@ -121,7 +121,7 @@ function registrar() {
             }
         )
 
-        localStorage.setItem('produtosCadCompra', JSON.stringify(produtosCadCompra))
+        localStorage.setItem('produtosCadCompra', JSON.stringify(produtos))
 
         alert('Cadastro efetuado com sucesso!')
      
