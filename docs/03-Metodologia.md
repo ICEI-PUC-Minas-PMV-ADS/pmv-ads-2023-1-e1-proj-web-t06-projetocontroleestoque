@@ -30,7 +30,7 @@ A equipe está organizada da seguinte maneira:
   Marco Azevedo
 
 ●	Equipe de Desenvolvimento: 
-  Anderson Nascimento Souza, Bruna Bricio Alvarenga Sampaio, Marco Azevedo, Samara Karoline De Almeida Costa
+  Anderson Nascimento Souza, Marco Azevedo e Samara Karoline De Almeida Costa
 
 ●	Equipe de Design: 
   Bianca Nicoly Dias Matos
@@ -73,7 +73,7 @@ Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitos
   
   Planejamento: O planejamento da Sprint 2 aborta definir o template padrão do Site e a programação de Funcionalidades.
     
-  Execução: Para conclusão desta sprint foi necessário elaborar o template padrão do site e iniciar o desenvolvimento e implementação de ao menos uma funcionalidade. Optamos por deixar a tela de cadastro funcional criando uma espécie de banco de dados com o LocalStorage.
+  Execução: Para conclusão desta sprint foi necessário elaborar o template padrão do site e iniciar o desenvolvimento e implementação de ao menos uma funcionalidade. Optamos por deixar a tela de cadastro funcional criando uma espécie de banco de dados com o LocalStorage, desta forma os dados são armazenados localmente no navegador podendo ser resgatados conforme a necessidade. Para a criação do Template Padrão do Site e identidade visual da página fizemos um esforço de criatividade, olhamos algumas paletas de cores e tentamos criar algo a partir delas. Encontramos alguns desafios durante esta Sprint principalmente com o gerenciamento do tempo, mas ao final conseguimos executá-la em tempo hábil e creio que todos na equipe tenham aprendido bastante. 
   
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/3c09f941-e753-42bc-91e6-1e978d37864b)
     
