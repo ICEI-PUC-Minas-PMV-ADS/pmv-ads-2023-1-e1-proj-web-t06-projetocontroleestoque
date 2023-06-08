@@ -1,59 +1,60 @@
 body {
-    background-image: url(../login-estoque/Imagens/low-poly-grid-haikei\ \(1\).svg);
+    background-image: url(../login-estoque/Imagens/18309213_SL-043021-42650-13.jpg);
     background-size: cover;
     font-family: Arial, sans-serif;
+    margin: 0;
 }
-
-.login-form h1 {
-    text-align: center;
-    color: #bcdbdf;
+h1 {
+    color: #EDAA25;
 }
-
-.login-form p a {
-    color: #bcdbdf;
+.logo img {
+    max-width: 150px;
 }
-
-.login-form p a:hover {
-    color: #32afbb;
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-
 .login-form{
-    background-color: #524e4e91;
+    background-color: white;
     padding: 20px;
     max-width: 400px;
+    height: 345px;
     margin: auto;
     margin-top: 100px;
     border-radius: 10px;
-    color: #bcdbdf;
+    color: rgba(29, 31, 31, 0.945);
 }
-
+.login-form a {
+    color: #218b99;
+}	
+.login-form a:hover {
+    color: #EDAA25;
+}	
 .input {
-    width: 100%;
-    padding: 10px;
-    margin: 5px 0;
-    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.871);
     border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
     border: none;
-    border-bottom: 2px solid #ccc;
-    font-size: 16px;
-    background-color: #ccc;
+    box-shadow: 1px 1px 6px #2e282836;
+    display: flex;
+    flex-direction: column;
+    width: 95%;
 }
-
 .button-login {
-    background-color: #232424a2;
+    background-color: #218b99;
     color: white;
     padding: 10px 165px;
-    margin: 10px 0;
+    margin: 15px 0;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
 }
-
 .button-login:hover {
-    background-color: #2d3035a2;
+    background-color: #30a0ae;
 }
-
 .link {
     display: block;
     text-align: center;

@@ -4,11 +4,11 @@
 }
 
 textarea:focus,
-input:focus, 
+input:focus,
 select:focus {
     box-shadow: 0 0 0 0;
     border: 0 none;
-} 
+}
 
 body {
     background-image: url(./Imagens/SL_043021_42650_23.jpg);

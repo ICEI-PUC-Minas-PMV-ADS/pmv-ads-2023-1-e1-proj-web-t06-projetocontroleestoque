@@ -5,12 +5,12 @@ function entrar() {
 
     let senhaLabel = document.querySelector('#senhaLabel')
     let senha = document.querySelector('#senha')
-    
-    if(usuario.value=='' || senha.value=='') {
-    	alert("Preencha o usuário e a senha!");
-      return;
+
+    if (usuario.value == '' || senha.value == '') {
+        alert("Preencha o usuário e a senha!");
+        return;
     }
-    
+
     let listaUser = []
 
     let userValid = {
@@ -20,8 +20,8 @@ function entrar() {
     }
 
     listaUser = JSON.parse(localStorage.getItem('listaUser'))
-            
-    listaUser.forEach((item) => {   
+
+    listaUser.forEach((item) => {
         if (usuario.value == item.user && senha.value == item.senha) {
             userValid = {
                 nome: item.nome,
@@ -32,7 +32,7 @@ function entrar() {
     })
 
     if (usuario.value == userValid.user && senha.value == userValid.senha) {
-       window.location.href = '../dashboard-estoque/dashboard-estoque.html'
+        window.location.href = '../dashboard-estoque/dashboard-estoque.html'
     }
     else {
         alert('Usuário ou senha incorretos!')
