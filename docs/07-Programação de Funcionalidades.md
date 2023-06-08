@@ -10,3 +10,17 @@ A interface é limpa e organizada, com elementos de design intuitivos para orien
 Em resumo, a tela de login do Estoque Fácil é projetada para ser simples, intuitiva e segura, permitindo que os usuários autentiquem-se facilmente no sistema e acessem todas as funcionalidades disponíveis.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/f8b3032d-ed34-4e26-8459-c63ab42ca18f)
+
+# Cadastra-se
+
+A tela "Cadastrar-se" permite que os usuários criem uma nova conta no sistema. Ela solicita informações como nome, usuário, senha e confirmação de senha. Além disso, apresenta um link para login e um botão para concluir o cadastro. Essa funcionalidade é essencial para permitir que os usuários acessem recursos exclusivos do sistema, personalizando a experiência de uso.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/7eea3038-b4cf-4fd4-9cad-55c7a6b2d98a)
+
+# Dashboard
+
+O dashboard do sistema de Estoque Fácil apresenta um resumo das principais informações, como o total de estoque de cada item, as entradas e saídas de estoque, o custo total e o valor total de vendas. É uma tela central que fornece uma visão rápida e clara do estado atual do estoque e do desempenho das vendas. 
+
+Os usuários podem monitorar a quantidade disponível de cada item, acompanhar as movimentações recentes, analisar os custos e avaliar o valor gerado pelas vendas. Essas informações permitem uma tomada de decisão informada e estratégica para o gerenciamento eficiente do estoque e o crescimento do negócio.
+
+# 
