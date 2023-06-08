@@ -1,61 +1,75 @@
+body {
+	background-image: url(../cadastro-estoque/Imagens/18309213_SL-043021-42650-13.jpg);
+	background-size: cover;
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
 
-		body {
-			background-image: url(../cadastro-estoque/Imagens/low-poly-grid-haikei\ \(1\).svg);
-			background-size: cover;
-			font-family: Arial, sans-serif;
-		}	
-		h1 {
-			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-			font-size: 48px;
-			color: #ffffffc1;
-			text-align: center;
-			margin-top: 100px;
+h1 {
+	color: #EDAA25;
+}
 
-		}
-		.login-form{
-			background-color: #524e4e91;
-			padding: 20px;
-			max-width: 400px;
-			height: 350px;
-			margin: auto;
-			margin-top: 50px;
-			border-radius: 10px;
-			color: #bcdbdf;
-		}
-		.login-form a {
-			margin-top: 5px;
-			color: #bcdbdf;
-		}		
-		.input {
-			background-color: #ccc;
-			width: 100%;
-			padding: 10px;
-			margin: 5px 0;
-			box-sizing: border-box;
-			border-radius: 5px;
-			border: none;
-			border-bottom: 2px solid #ccc;
-			font-size: 16px;
-			outline: none;
-		}
-		.button-cadastrar {
-			background-color: #232424a2;
-			color: white;
-			padding: 10px 150px;
-			margin: 0 auto;
-			margin-top: 15px;
-			border: none;
-			border-radius: 5px;
-			cursor: pointer;
-			font-size: 16px;
-			display: block;			
-		}
-		.button-cadastrar:hover {
-			background-color: #2d3035a2;
-		}
-		.link {
-			display: block;
-			text-align: center;
-			font-size: 16px;
-			margin-top: 20px;
-		}
+.logo img {
+	max-width: 150px;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.login-form {
+	background-color: white;
+	padding: 20px;
+	max-width: 400px;
+	height: 450px;
+	margin: auto;
+	margin-top: 80px;
+	border-radius: 10px;
+	color: rgba(29, 31, 31, 0.945);
+}
+
+.login-form a {
+	color: #218b99;
+}
+
+.login-form a:hover {
+	color: #EDAA25;
+}
+
+.input {
+	background-color: rgba(255, 255, 255, 0.871);
+	border-radius: 5px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: none;
+	box-shadow: 1px 1px 6px #2e282836;
+	display: flex;
+	flex-direction: column;
+	width: 95%;
+}
+
+.button-cadastrar {
+	background-color: #218b99;
+	color: white;
+	padding: 10px 150px;
+	margin: 0 auto;
+	margin-top: 15px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 16px;
+	display: block;
+}
+
+.button-cadastrar:hover {
+	background-color: #30a0ae;
+}
+
+.link {
+	display: block;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 20px;
+}

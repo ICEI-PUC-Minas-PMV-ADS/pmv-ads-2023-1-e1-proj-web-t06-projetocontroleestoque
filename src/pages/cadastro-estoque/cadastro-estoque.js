@@ -15,7 +15,7 @@ let labelConfirmarSenha = document.querySelector('#labelConfirmarSenha')
 let validConfirmarSenha = false
 
 nome.addEventListener('keyup', () => {
-    if(nome.value.length <= 2){
+    if (nome.value.length <= 2) {
         labelNome.innerHTML = 'Nome: *Insira no minimo 3 caracteres'
         nome.setAttribute('style', 'border-color: red')
         validNome = false
@@ -28,7 +28,7 @@ nome.addEventListener('keyup', () => {
 })
 
 usuario.addEventListener('keyup', () => {
-    if(usuario.value.length <= 4){
+    if (usuario.value.length <= 4) {
         labelUsuario.innerHTML = 'Usuario: *Insira no minimo 5 caracteres'
         usuario.setAttribute('style', 'border-color: red')
         validUsuario = false
@@ -41,7 +41,7 @@ usuario.addEventListener('keyup', () => {
 })
 
 senha.addEventListener('keyup', () => {
-    if(senha.value.length <= 5){
+    if (senha.value.length <= 5) {
         labelSenha.innerHTML = 'Senha: *Insira no minimo 6 caracteres'
         senha.setAttribute('style', 'border-color: red')
         validSenha = false
@@ -54,7 +54,7 @@ senha.addEventListener('keyup', () => {
 })
 
 ConfirmarSenha.addEventListener('keyup', () => {
-    if(senha.value != ConfirmarSenha.value){
+    if (senha.value != ConfirmarSenha.value) {
         labelConfirmarSenha.innerHTML = 'Confirme a senha: *As senhas não conferem'
         ConfirmarSenha.setAttribute('style', 'border-color: red')
         validConfirmarSenha = false
@@ -66,11 +66,11 @@ ConfirmarSenha.addEventListener('keyup', () => {
     }
 })
 
-function cadastrar () {
+function cadastrar() {
     if (validNome && validUsuario && validSenha && validConfirmarSenha) {
         let listaUser = JSON.parse(localStorage.getItem('listaUser') || '[]')
 
-        listaUser.push (
+        listaUser.push(
             {
                 nome: nome.value,
                 user: usuario.value,
@@ -85,5 +85,5 @@ function cadastrar () {
     } else {
         alert('Preencha todos os campos antes de continuar!')
     }
- 
+
 }
