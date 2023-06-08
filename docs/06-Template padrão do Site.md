@@ -4,4 +4,4 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/c873eb9f-04dd-424a-a92d-3216f390eefc)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/7cebedaa-c39b-4a81-833e-7c6de1b26e08)
