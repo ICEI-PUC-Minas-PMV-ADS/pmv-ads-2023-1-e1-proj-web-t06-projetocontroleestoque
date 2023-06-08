@@ -20,13 +20,13 @@ Conforme imagens abaixo temos a funcionalidade ok para a navegação entre links
 Aqui o aviso de necessidade de cadastro quando clico diretamente no botão cadastrar
 
 
-![Image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/115134851/1ec7033b-64d6-4d29-835c-078bb3e98aa8)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/4f33663a-faf9-4269-9204-0dcd31bb3ee6)
 
 
 Aqui ao clicar na pergunta de já possui cadastro ele direciona ok para a tela de login
 
 
-![Image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/115134851/37a99fb1-c462-4319-98a5-8010d2a1ce9a)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/26d2df65-9aad-4e14-9725-ebafcc5814e2)
 
 
 **Testes de Campos da Pagina de Cadastro**
@@ -34,7 +34,7 @@ Aqui ao clicar na pergunta de já possui cadastro ele direciona ok para a tela d
 Aqui o cadastro efetuado com sucesso ao colocar dados cadastrais pela primeira vez respeitando uma senha com o mínimo de 6 dígitos
 
 
-![Image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/115134851/f431d1b8-6307-4df9-8a7a-6b670be4cfa6)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/d3b3fe26-c99b-4a6c-9c0d-f7e39bd2864d)
 
 
 **Teste de Responsividade da Pagina de Cadastro**
@@ -42,17 +42,17 @@ Aqui o cadastro efetuado com sucesso ao colocar dados cadastrais pela primeira v
 Aqui mostrando a página de forma a simular um tablet ou celular na vertical para a responsividade
 
 
-![Image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/115134851/d222405e-8a54-41e8-bd8e-aa1d7295c513)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/e1db2ba9-148d-4564-b98a-61a64faeb3a3)
 
 
 Como Insucesso aponto apenas o momento onde se pode registrar números e qualquer caractere no lugar de nome de pessoa
 
 
-![Image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/115134851/2dd47fad-5e0c-4847-a485-cb0f70de13aa)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/1ffbfa34-ca63-46ff-8d33-530840d336f5)
 
 
 
-![Image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/115134851/7756dda5-a355-4b87-ba03-f4618e3d398a)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/7c789d0a-a104-4f8a-a7a8-842d1e8dd5fa)
 
 
 
