@@ -64,3 +64,12 @@ A funcionalidade "Registro de Vendas do Produto" permite ao usuário registrar i
    * saida-produtos.js
    * saida-produtos.css
    * sl_043021_42650_09.jpg
+
+## Instruções de acesso
+1.	Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque.git
+2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
+3.	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
+4.	Descompacte o arquivo em uma pasta específica;
+5.	Abra o Visual Studio Code e execute o Live Server;
+6.	Abra um navegador de Internet e informe a seguinte URL:
+http://localhost:5500/login-estoque.html 
