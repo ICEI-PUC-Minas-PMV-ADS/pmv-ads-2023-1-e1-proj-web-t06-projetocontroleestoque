@@ -35,3 +35,9 @@ A tela de registro de compras de produtos permite ao usuário inserir informaç�
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/1aa8d558-8723-4b25-b8fb-8dd6099e5807)
 
+# Registro de Vendas do Produto
+
+A funcionalidade "Registro de Vendas do Produto" permite ao usuário registrar informações sobre uma venda específica. O formulário inclui campos para o nome e numeração do produto, quantidade vendida, preço de venda, data e observações. Ao preencher todos os campos, o usuário pode registrar a venda. Essa funcionalidade mantém um registro preciso das vendas, facilitando o acompanhamento do histórico e análises futuras.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/17b463f7-2ea1-4361-b614-c08d12ddcdfb)
+
