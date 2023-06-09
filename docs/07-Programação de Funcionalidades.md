@@ -29,3 +29,9 @@ A funcionalidade "Cadastro de Produtos" é uma tela do sistema onde os usuários
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/78a64cb8-a8bf-4e19-9165-da5b9ac96dd2)
 
+# Registro de Compra de Produtos
+
+A tela de registro de compras de produtos permite ao usuário inserir informações sobre uma compra específica. O formulário inclui campos para selecionar o produto, informar a quantidade, preço de compra, data e adicionar observações. Ao preencher todas as informações necessárias, o usuário pode clicar no botão "Registrar" para salvar os detalhes da compra. Essa funcionalidade mantém um registro preciso das compras realizadas, facilitando o acompanhamento do histórico e fornecendo dados úteis para análises futuras.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/1aa8d558-8723-4b25-b8fb-8dd6099e5807)
+
