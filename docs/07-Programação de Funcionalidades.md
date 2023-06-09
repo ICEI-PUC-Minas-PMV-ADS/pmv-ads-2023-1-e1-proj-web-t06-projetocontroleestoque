@@ -17,6 +17,13 @@ A tela "Cadastrar-se" permite que os usuários criem uma nova conta no sistema. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/7eea3038-b4cf-4fd4-9cad-55c7a6b2d98a)
 
+  Artefatos da funcionalidade
+    ●	login-estoque.html
+    ●	login-estoque.js
+    ●	login-estoque.css
+    ●	i18309213_SL-043021-42650-13.jpg
+    ● logo_transparent.png
+
 # Dashboard
 
 O dashboard do sistema de Estoque Fácil apresenta um resumo das principais informações, como o total de estoque de cada item, as entradas e saídas de estoque, o custo total e o valor total de vendas. É uma tela central que fornece uma visão rápida e clara do estado atual do estoque e do desempenho das vendas. 
