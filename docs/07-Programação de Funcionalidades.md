@@ -17,7 +17,7 @@ A tela "Cadastrar-se" permite que os usuários criem uma nova conta no sistema. 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/7eea3038-b4cf-4fd4-9cad-55c7a6b2d98a)
 
-## Artefatos da funcionalidade
+### Artefatos da funcionalidade
    * login-estoque.html
    * login-estoque.js
    * login-estoque.css
@@ -36,11 +36,22 @@ A funcionalidade "Cadastro de Produtos" é uma tela do sistema onde os usuários
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/78a64cb8-a8bf-4e19-9165-da5b9ac96dd2)
 
+### Artefatos da funcionalidade
+   * cadastroProdutos.html
+   * cadastroProdutos.js
+   * cadastroProdutos.css
+   * sl_043021_42650_09.jpg
+   
 # Registro de Compra de Produtos
 
 A tela de registro de compras de produtos permite ao usuário inserir informações sobre uma compra específica. O formulário inclui campos para selecionar o produto, informar a quantidade, preço de compra, data e adicionar observações. Ao preencher todas as informações necessárias, o usuário pode clicar no botão "Registrar" para salvar os detalhes da compra. Essa funcionalidade mantém um registro preciso das compras realizadas, facilitando o acompanhamento do histórico e fornecendo dados úteis para análises futuras.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/1aa8d558-8723-4b25-b8fb-8dd6099e5807)
+### Artefatos da funcionalidade
+   * entrada-produtos.html
+   * entrada-produtos.js
+   * entrada-produtos.css
+   * SL_043021_42650_23.jpg
 
 # Registro de Vendas do Produto
 
@@ -48,3 +59,8 @@ A funcionalidade "Registro de Vendas do Produto" permite ao usuário registrar i
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/17b463f7-2ea1-4361-b614-c08d12ddcdfb)
 
+### Artefatos da funcionalidade
+   * saida-produtos.html
+   * saida-produtos.js
+   * saida-produtos.css
+   * sl_043021_42650_09.jpg
