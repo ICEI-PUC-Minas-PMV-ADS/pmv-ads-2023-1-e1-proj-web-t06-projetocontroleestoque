@@ -14,13 +14,13 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 
 ### **Testes de Software - Página de Cadastro**
 
-**Testes de navegação**
+**Testes de navegação:**
 
 Conforme imagem disposta abaixo podemos observar que a navegabilidade da página de cadastro funciona corretamente. Todos os links dispostos na página direcionam para a página desejada, sem apresentar quaisquer erro. Para este teste cliquei sobre o link com a seguinte descrição: "Já possui cadastro? Faça login." e fui direcionado para a página de login, como era esperado.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/26d2df65-9aad-4e14-9725-ebafcc5814e2)
 
-**Testes de campos do formulário**
+**Testes de campos do formulário:**
 
 Neste caso de teste cliquei sobre o botão "CADASTRAR" sem preencher nenhum campo do formulário para verificar se o cadastro ia ser efetuado ou se o usuário receberia algum alerta informando a necessidade de preencher todos os campos corretamente antes de prosseguir. Como podemos ver no print logo abaixo foi exibido um alerta indicando a necessidade de preencher todos os campos, como era de se esperar.
 
@@ -36,7 +36,7 @@ Como caso de insucesso aponto apenas a possibilidade de preencher o campo "nome"
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/7c789d0a-a104-4f8a-a7a8-842d1e8dd5fa)
 
-**Teste de Responsividade**
+**Teste de responsividade:**
 
 Para testar a responsividade da página diminui a janela de forma a simular um dispositivo móvel na vertical e novamente não obtive nenhum resultado inesperado. Todos os elementos estão bem dispostos e legíveis.
 
