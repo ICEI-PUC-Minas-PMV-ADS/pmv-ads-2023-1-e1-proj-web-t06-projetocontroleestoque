@@ -66,7 +66,14 @@ select {
     background-color: rgba(216, 47, 47, 0.84);
 }
 
-.pagina-inicial {
+.nav {
+    display: flex;
+    justify-content: end;
+}
+
+.pagina-inicial,
+.cadastro-produtos,
+.entrada-produtos {
     text-decoration: none;
     background-color: rgba(233, 33, 33, 0.836);
     padding: 10px;
@@ -79,6 +86,8 @@ select {
     margin: 10px 10px;
 }
 
-.pagina-inicial:hover {
-    background-color: rgba(216, 47, 47, 0.84);
+.pagina-inicial:hover,
+.cadastro-produtos:hover,
+.entrada-produtos:hover {
+    background-color: rgba(201, 11, 11, 0.84);
 }
