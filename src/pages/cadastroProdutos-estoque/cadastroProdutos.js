@@ -37,7 +37,7 @@ function cadastrar() {
     if (produtosCad.findIndex(p => p.nomeProduto == nomeProduto.value && p.numeracao == numeracao.value) >= 0) {
 
         alert('Produto com o mesmo nome e numeração já cadastrado!')
-        alert('Retorne a página inicial e selecione no menu a opção "Registro de Compra de Produtos" para incluir a chegada de nova remessa deste produto.')
+        alert('Selecione a opção "Compra de Produtos" no canto superior direito desta página para incluir a chegada de nova remessa deste produto.')
         
         return;
     }
