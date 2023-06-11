@@ -62,7 +62,7 @@ body {
  #myChart {
 position: absolute;
 border-radius: 10px;
-top: 250px;
+top: 150px;
 left: 500px;
 width: 1500px;
 height: 300px;
@@ -71,8 +71,8 @@ height: 300px;
  #radar {
 position: absolute;
 border-radius: 10px;
-top: 250px;
-left: 1100px;
+top: 150px;
+left: 900px;
 width: 1500px;
 height: 300px;
 }
@@ -90,7 +90,7 @@ height: 300px;
 position: absolute;
 border-radius: 10px;
 top: 5500px;
-left: 1100px;
+left: 900px;
 width: 1500px;
 height: 300px;
 }
