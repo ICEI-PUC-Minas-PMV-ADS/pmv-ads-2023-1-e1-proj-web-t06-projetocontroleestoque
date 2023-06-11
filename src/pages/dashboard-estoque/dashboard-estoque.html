@@ -1,16 +1,58 @@
 <!DOCTYPE html>
-
 <html lang="pt-br">
 
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Bianca Matos">
-    <meta name="description" content="Registro de entradas e saídas - Estoque">
-    <meta name="keywords" content="Estoque, Gerenciamento, Produtos">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Estoque Fácil - Dashboard</title>
+    <img id="logo" src= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/blob/main/src/pages/login-estoque/Imagens/logo_transparent.png">
 
-    <link rel="stylesheet" type="text/css" href="./entradas&saidas.css">
+
 </head>
 
 <body>
-    <h1>Página em construção!</h1>
+    <div class="title">
+        <h1>Dashboard</h1>
+    </div>
+
+    <div class="card-container">
+        <div class="card">
+            <h2>Produtos comprados</h2>
+            <p>250</p>
+        </div>
+        <div class="card">
+            <h2>Valor em produtos comprados</h2>
+            <p>R$ 10.000</p>
+        </div>
+        <div class="card">
+            <h2>Produtos vendidos</h2>
+            <p>150</p>
+        </div>
+        <div class="card">
+            <h2>Valor em produtos vendidos</h2>
+            <p>R$ 7.500</p>
+        </div>
+    </div>
+
+<div style="width: 1500px; height: 300px;">
+<canvas id="myChart"></canvas>
+</div>
+
+<div style="width: 1500px; height: 300px;">
+<canvas id="radar"></canvas>
+</div>
+
+<div style="width: 1500px; height: 300px;">
+<canvas id="horizontalBar"></canvas>
+</div>
+
+<div style="width: 1500px; height: 300px;">
+<canvas id="doughnut"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://github.com/chartjs/Chart.js/blob/master/docs/scripts/utils.js"></script>
+
 </body>
+
+</html>
