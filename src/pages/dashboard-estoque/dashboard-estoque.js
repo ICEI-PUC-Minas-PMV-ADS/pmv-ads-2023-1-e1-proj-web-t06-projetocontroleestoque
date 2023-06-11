@@ -1,3 +1,7 @@
+
+localStorage.setItem('produtosCad', '[{"nomeProduto":"Sapato preto","numeracao":"41","estoque":[{"tipo":"Entrada","quantidade":"2","precoCompra":"150","data":"07/06/2023","observacao":""},{"tipo":"Entrada","quantidade":"4","precoCompra":"120","data":"08/06/2023","observacao":""},{"tipo":"Saída","quantidade":"1","precoVenda":"250","data":"09/06/2023","observacao":""}]},{"nomeProduto":"Sapato preto","numeracao":"40","estoque":[{"tipo":"Entrada","quantidade":"1","precoCompra":"180","data":"05/06/2023","observacao":""},{"tipo":"Saída","quantidade":"1","precoVenda":"220","data":"07/06/2023","observacao":""}]},{"nomeProduto":"Tênis","numeracao":"40","estoque":[{"tipo":"Entrada","quantidade":"3","precoCompra":"280","data":"06/06/2023","observacao":""}]}]');
+
+
 let produtos = JSON.parse(localStorage.getItem('produtosCad')) || [];
 
 let nomes = produtos.map(p => `${p.nomeProduto} (${p.numeracao})`)
