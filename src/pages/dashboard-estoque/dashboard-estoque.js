@@ -220,4 +220,3 @@ const config4 = {
 const ctx4 = document.getElementById('doughnut');
 
 new Chart(ctx4, config4, dados4);
-
