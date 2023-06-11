@@ -25,7 +25,7 @@ O projeto de controle de estoque tem como intuito controlar o estoque das empres
 
 Para fazer um cadastro na página basta informar o seu nome, criar um usuário e uma senha e apertar no botão de "CADASTRAR". 
 
-* Funcionalidade de Login:
+* Login:
 
 Assim que tiver efetuado o cadastro, para fazer o login basta informar o mesmo usuário e senha cadastrados e apertar no botão "ENTRAR". 
 
