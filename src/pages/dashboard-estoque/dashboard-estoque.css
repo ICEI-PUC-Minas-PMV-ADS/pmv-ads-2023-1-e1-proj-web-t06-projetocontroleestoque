@@ -6,7 +6,7 @@ body {
     text-align: center;
     border-radius: 5px;
     padding: 0px;
-    margin: 40px auto;
+    margin: 20px auto;
     width: 200px;
     font-family: Arial, sans-serif;
     font-size: 16px;
@@ -63,7 +63,7 @@ body {
 position: absolute;
 border-radius: 10px;
 top: 250px;
-left: 100px;
+left: 500px;
 width: 1500px;
 height: 300px;
 }
@@ -72,7 +72,7 @@ height: 300px;
 position: absolute;
 border-radius: 10px;
 top: 250px;
-left: 750px;
+left: 1100px;
 width: 1500px;
 height: 300px;
 }
@@ -80,8 +80,8 @@ height: 300px;
 #horizontalBar {
 position: absolute;
 border-radius: 10px;
-top: 600px;
-left: 100px;
+top: 550px;
+left: 500px;
 width: 1500px;
 height: 300px;
 }
@@ -89,8 +89,8 @@ height: 300px;
  #doughnut {
 position: absolute;
 border-radius: 10px;
-top: 600px;
-left: 750px;
+top: 5500px;
+left: 1100px;
 width: 1500px;
 height: 300px;
 }
