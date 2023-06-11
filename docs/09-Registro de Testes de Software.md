@@ -100,7 +100,7 @@ Ao reduzir a janela para simular um dispositivo móvel na vertical podemos obser
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/ffe1f238-c2c8-411f-9c43-bf4e36dbda5f)
 
-*Responsável pelos testes - Tela de Cadastro de Produtos: Anderson.*
+*Responsável pelos testes - Tela de Cadastro de Produtos: Anderson Nascimento.*
 
 ## Tela de Registro de Compra de Produtos
 
@@ -128,7 +128,7 @@ Aqui ao diminuir a janela para simular um dispositivo móvel na vertical podemos
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/b545967e-8d4e-42e9-8301-edf0d38ba931)
 
-*Responsável pelos testes - Tela de Registro de Compra de Produtos: Anderson.*
+*Responsável pelos testes - Tela de Registro de Compra de Produtos: Anderson Nascimento.*
 
 ## Tela de Registro de Venda de Produtos
 
@@ -158,6 +158,6 @@ Para este teste diminuí a janela para representar a tela de um celular na verti
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/07ffe453-f880-40b8-b700-e78a8939ebc8)
 
-*Responsável pelos testes - Tela de Registro de Venda de Produtos: Anderson.*
+*Responsável pelos testes - Tela de Registro de Venda de Produtos: Anderson Nascimento.*
 
 
