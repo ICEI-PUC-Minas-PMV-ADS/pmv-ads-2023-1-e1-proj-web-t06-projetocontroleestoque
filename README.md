@@ -21,7 +21,7 @@ O projeto de controle de estoque tem como intuito controlar o estoque das empres
 
 ## Instruções de utilização
 
-* Funcionalidade de Cadastro:
+* Cadastro:
 
 Para fazer um cadastro na página basta informar o seu nome, criar um usuário e uma senha e apertar no botão de "CADASTRAR". 
 
@@ -29,17 +29,21 @@ Para fazer um cadastro na página basta informar o seu nome, criar um usuário e
 
 Assim que tiver efetuado o cadastro, para fazer o login basta informar o mesmo usuário e senha cadastrados e apertar no botão "ENTRAR". 
 
-* Funcionalidade de Cadastro de Produtos:
+* Cadastro de Produtos:
 
 Nesta tela o usuário irá informar o nome do produto que deseja cadastrar e a numeração. Será feita uma verificação se já não existe um produto de mesmo nome e nuemeração, caso não haja será feito o cadastro normalmente e caso este produto já exista é sugerido ao usuário que registre novas quantidades do produto por meio do formulário de Registro de Compra de Produtos.
 
-* Funcionalidade de Registro de Compra de Produtos:
+* Registro de Compra de Produtos:
 
 Este formulário tem o intuito de registrar a chegada de nova remessa de um produto já cadastrado previamente, para utilizá-lo de forma correta basta informar os dados que foram solicitados e apertar no botão "REGISTRAR".
 
-* Funcionalidade de Registro de Venda de Produtos:
+* Registro de Venda de Produtos:
 
 Ao contrário do formulário de Compra de Produtos, o formulário de Venda de Produtos deve ser usado para registrar quando há saída de produtos do estoque, ou seja, quando estes produtos são vendidos. Assim como o formulário de Compra de Produtos para utilizá-lo o usuário deve apenas digitar os dados que são pedidos e apertar no botão "REGISTRAR".
+
+* Dashboard:
+
+O Dashboard tem a finalidade de exibir para o usuário todas as informações gerais necessárias para que possa fazer um controle de seu estoque. Para que ele funcione e seja utilizado de maneira correta primeiro o usuário deve cadastrar alguns produtos através da página de "CADASTRO DE PRODUTOS" e para realizar movimentações destes produtos já cadastrados previamente deve registrar a entrada e saída de produtos através das páginas de "REGISTRO DE COMPRA DE PRODUTOS" E "REGISTRO DE VENDA DE PRODUTOS", respectivamente. 
 
 # Documentação
 
