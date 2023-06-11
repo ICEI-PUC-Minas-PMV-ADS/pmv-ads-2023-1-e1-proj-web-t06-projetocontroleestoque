@@ -6,7 +6,7 @@ body {
     text-align: center;
     border-radius: 5px;
     padding: 0px;
-    margin: 20px auto;
+    margin: 15px auto;
     width: 200px;
     font-family: Arial, sans-serif;
     font-size: 16px;
@@ -16,20 +16,11 @@ body {
     color: white;
 }
 
-#logo {
-  width: 50px;
-  height: 50px;
-  border-radius: 5%;
-  position: absolute;
-  top: 50px;
-  left: 800px;
-}
-
 .card-container {
     display: flex;
     justify-content: space-between;
     margin: 20px auto;
-    max-width: 800px;
+    max-width: 900px;
 }
 
 .card {
@@ -62,8 +53,8 @@ body {
  #myChart {
 position: absolute;
 border-radius: 10px;
-top: 150px;
-left: 500px;
+top: 215px;
+left: 400px;
 width: 1500px;
 height: 300px;
 }
@@ -71,8 +62,8 @@ height: 300px;
  #radar {
 position: absolute;
 border-radius: 10px;
-top: 150px;
-left: 900px;
+top: 215px;
+left: 1025px;
 width: 1500px;
 height: 300px;
 }
@@ -80,8 +71,8 @@ height: 300px;
 #horizontalBar {
 position: absolute;
 border-radius: 10px;
-top: 550px;
-left: 500px;
+top: 545px;
+left: 400px;
 width: 1500px;
 height: 300px;
 }
@@ -89,8 +80,8 @@ height: 300px;
  #doughnut {
 position: absolute;
 border-radius: 10px;
-top: 5500px;
-left: 900px;
+top: 545px;
+left: 1025px;
 width: 1500px;
 height: 300px;
 }
