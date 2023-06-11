@@ -44,12 +44,18 @@ Para testar a responsividade da página diminui a janela de forma a simular um d
 
 *Responsável pelos testes - Tela de Cadastro: Marco Avezedo.*
 
+**Teste de Cadastro de Produtos:**
 
+Para realização do teste, foi registrado um produto da marca Adidas. O produto foi cadastrado com sucesso.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/ac053d5d-f0d0-4877-8fb0-7979b6b06dda)
 
+**Teste de Entrada de Produtos:**
+Após a realização do cadastro do produto "Adidas", foi lançado a entrada de 10 itens desse produto. Conforme o print abaixo, o registro foi realizado com sucesso.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/4f7ce488-7b1e-4c5a-82f1-3e9f5b3ba33f)
 
+**Teste de Saída de Produtos:**
+Após a realização do cadastro do produto "Adidas", foi simulado a venda de 5 itens desse produto. Conforme o print abaixo, o registro foi realizado com sucesso.
 
-
-
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/659e85fb-9665-454c-8cdf-6bfedbb02d45)
