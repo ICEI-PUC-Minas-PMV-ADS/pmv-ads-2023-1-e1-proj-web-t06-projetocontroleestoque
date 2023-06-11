@@ -37,7 +37,17 @@ Passos:
  4) Clicar em "Já tem cadastro? Faça login aqui."
  5) Fazer login
 
-## Caso de Teste	CT-03 - Cadastro de Produtos
+## Caso de Teste	CT-03 - Dashboard
+Requisitos Associados: A página deverá apresentar informações sobre o estoque, movimentações, valores e itens.
+
+Objetivo: Verificar se está aprensentando as informações do estoque para os usuários.
+
+Passos:
+ 1) Abrir o arquivo dashboard-estoque.html com os navegadores Edge, Chrome ou Firefox;
+ 2) Visualizar a página "Dashboard";
+ 3) Verificar as seguintes informações: quantidade de produtos comprados, valores, produtos vendidos, valor dos produtos vendidos, gráfico de movimnetação de estoque, valor do estoque e gráfico de itens;
+
+## Caso de Teste	CT-04 - Cadastro de Produtos
 Requisitos Associados: Cadastrar produtos
 
 Objetivo: Verificar se está cadastrando produtos
@@ -48,7 +58,7 @@ Passos:
  3) Clicar em cadastrar
  4) Aparece um aviso que o produto foi cadastrado.
 
-## Caso de Teste	CT-04 - Entrada de Produtos
+## Caso de Teste	CT-05 - Entrada de Produtos
 Requisitos Associados: Entrada de produtos
 
 Objetivo: Verificar se está registrando a entrada de produtos
@@ -59,7 +69,7 @@ Passos:
  3) Clicar em "Registrar;
  4) Aparece um aviso que o produto foi cadastrado.
 
-## Caso de Teste	CT-05 - Saída de Produtos
+## Caso de Teste	CT-06 - Saída de Produtos
 Requisitos Associados: Registrar a venda do produto
 Objetivo: Verificar se está registrando a saída de produtos
 
