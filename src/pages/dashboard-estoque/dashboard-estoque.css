@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+}
+
+.title {
+    text-align: center;
+    border-radius: 5px;
+    padding: 0px;
+    margin: 15px auto;
+    width: 200px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.title h1 {
+    color: white;
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    max-width: 900px;
+}
+
+.card {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    width: calc(25% - 20px);
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+    height: 80px;
+}
+
+.card h2 {
+    font-size: 10px;
+}
+
+.card p {
+    font-size: 14px;
+    color: #00b19d;
+}
+
+.card:nth-child(3) p,
+.card:nth-child(4) p {
+    color: #E20123;
+}
+
+ #myChart {
+position: absolute;
+border-radius: 10px;
+top: 215px;
+left: 400px;
+width: 1500px;
+height: 300px;
+}
+
+ #radar {
+position: absolute;
+border-radius: 10px;
+top: 215px;
+left: 1025px;
+width: 1500px;
+height: 300px;
+}
+
+#horizontalBar {
+position: absolute;
+border-radius: 10px;
+top: 545px;
+left: 400px;
+width: 1500px;
+height: 300px;
+}
+
+ #doughnut {
+position: absolute;
+border-radius: 10px;
+top: 545px;
+left: 1025px;
+width: 1500px;
+height: 300px;
+}
+
+
+https://jsfiddle.net/#run;
