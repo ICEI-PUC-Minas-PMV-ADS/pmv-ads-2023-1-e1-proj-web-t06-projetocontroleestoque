@@ -184,7 +184,7 @@ const config3 = {
       },
       title: {
         display: true,
-        text: 'Valor em estoque',
+        text: 'Entradas',
         color: 'rgb(128,128,128)'
       }
     }
