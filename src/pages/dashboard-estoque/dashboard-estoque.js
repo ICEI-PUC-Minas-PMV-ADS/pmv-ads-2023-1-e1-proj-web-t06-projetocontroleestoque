@@ -29,6 +29,28 @@ for (let i in produtos) {
 console.log(produtosComprados);
 console.log(valorProdutosComprados);
 
+card_qnt_prod_comprados.innerHTML = produtosComprados;
+card_valor_prod_comprados.innerHTML = 'R$' + valorProdutosComprados
+
+
+
+let produtosVendidos = 0;
+let valorProdutosVendidos = 0;
+for (let i in produtos) {
+  for (let j in produtos[i].estoque) {
+    if (produtos[i].estoque[j].tipo == "Saída") {
+      produtosVendidos += parseInt(produtos[i].estoque[j].quantidade);
+      valorProdutosVendidos += parseFloat(produtos[i].estoque[j].precoVenda) * parseInt(produtos[i].estoque[j].quantidade);
+    }
+  }
+}
+console.log(produtosVendidos);
+console.log(valorProdutosVendidos);
+
+card_qnt_prod_vendidos.innerHTML = produtosVendidos;
+card_valor_prod_vendidos.innerHTML = 'R$' + valorProdutosVendidos
+
+
 
 const plugin = {
   id: 'customCanvasBackgroundColor',
