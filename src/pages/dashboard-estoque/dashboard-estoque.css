@@ -2,6 +2,39 @@ body {
     background-color: black;
 }
 
+nav {
+    background-color: white;
+    height: 525px;
+    border-radius: 4px;
+    max-width: max-content;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+nav a {
+    margin-bottom: 60px;
+    text-decoration: none;
+    color: rgb(83, 79, 79);
+}
+
+nav .item1 {
+    border-bottom: 2px solid #00b19d;
+}
+
+nav .item2 {
+    border-bottom: 2px solid #E20123;    
+}
+
+nav .item3 {
+    border-bottom: 2px solid #F3D863;  
+}
+
+.logo img {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
 .title {
     text-align: center;
     border-radius: 5px;
