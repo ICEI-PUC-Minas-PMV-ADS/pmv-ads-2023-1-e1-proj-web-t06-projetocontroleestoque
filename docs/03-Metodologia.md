@@ -83,9 +83,21 @@ Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitos
   
   Planejamento: O planejamento da Sprint 2 aborta definir o pano de Testes de Software e o registro de Testes de Software
     
-  Execução:
+  Execução: Para conclusão desta sprint foi preciso concluir o desenvolvimento das demais funcionalidades do site e testá-las. Desenvolvemos 5 funcionalidades, sendo elas: Login (HTML e CSS já trabalhados na sprint anterior), Cadastro de Produtos, Registro de Compra de produtos, Registro de Venda de Produtos e Dashboard (página inicial com todas as informações gerais do site). Também fizemos algumas melhorias na questão visual das telas de Login e de Cadastro, achamos que poderíamos fazer algo melhor, incluímos uma logo e deixamos a aparência um pouco mais limpa e uniforme. Continuamos a trabalhar com JSON e o LocalStorage para o desenvolvimento das outras demais funcionalidades, inserindo e resgatando dados através do armazenamento local para tornar nosso site funcional e capz de interagir com o usuário. Para o plano de testes nós, da equipe, nos divimos e testamos cada uma das funcionalidades. Identificamos alguns pontos para melhoria e pretendemos implementá-las para a próxima sprint. 
+  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/f3f1eee5-0e29-427a-927a-ac371eb1571e)
     
-  Evidências:
+   Evidências:
+   
+   *Página de Registro de Compra de Produtos desenvolvida nesta Sprint:*
+   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/3fb55eef-60dc-42ef-9242-75711972c8da)
+   
+   *Melhoria da identidade visual da páginas de Login e Cadastro também desenvolvidas nesta Sprint:*
+   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/b677d4e8-2f25-44e7-88d2-696471b46afb)
+   
+   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/15dcaaa6-3822-427f-a0e9-d7ed981484c2)
+    
+   Demais evidências: 07-Programação de Funcionalidades; 08-Plano de Testes de Software; 09-Registros de Testes de Software.
     
  ### Sprint 5
   
