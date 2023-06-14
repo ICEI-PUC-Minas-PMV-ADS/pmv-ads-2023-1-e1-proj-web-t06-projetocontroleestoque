@@ -160,4 +160,36 @@ Para este teste diminuí a janela para representar a tela de um celular na verti
 
 *Responsável pelos testes - Tela de Registro de Venda de Produtos: Anderson Nascimento.*
 
+## Dashboard
+
+**Testes de navegação:**
+
+Para testar se a navegação da página estava funcionando corretamente cliquei sobre todos os links dispostos na página e fui direcionada para as páginas correspondentes sem que houvesse nenhum erro, logo, o teste foi bem sucedido. Nas imagens logo abaixo cliquei sobre a opção "CADASTRAR NOVOS PRODUTOS" e como podemos ver fui redirecionada para a página de cadastro de produtos.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/835e3b0b-c495-419d-83a2-3a324cde5b97)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/cb47d829-6b69-46c4-9b1d-3f93790a886d)
+
+**Testes de dinâmica e atualização da página:**
+
+Neste caso de teste eu procrei cadastrar novos produtos, registrar a entrada e a saída destes mesmo produtos para averiguar se o Dashboard ia, de fato, ir se atualizando conforme novos dados são inseridos. Cadastrei um novo produto chamado "TENIS NIKE" e registrei a entrada de 10 unidades deste produto, logo em seguida registrei a saída de 3 unidades deste mesmo produto, cujo valor de compra foi R$ 50,00 e o valor de venda R$ 150,00. Como podemos observar na imagem abaixo, através dos gráficos, o teste foi exitoso. O dashboard esta dinâmico se atualiza conforme novas informaçãoes vão sendo introduzidas.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/c57299d4-44a2-4fe7-980e-6b8765e6a531)
+
+**Teste de responsividade:**
+
+Como um caso de insucesso e um ponto de melhoria para a próxima sprint eu sugiro apenas tornar a página responsiva. Quando reduzimos a tela para simular um celular ou um tablet o layout acaba perdendo forma, os elementos ficam desalinhados e a principal informação da página que são os gráficos ficam difícies de se visualizar (principalmente para dispositivos móveis).
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/d02be443-8369-457d-920d-aae2f65f30e6)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/9acc69a2-ce86-4c09-9831-fe24fd2dc597)
+
+*Responsável pelos testes - Dashboard: Samara Almeida.*
+
+
+
+
+
+
+
 
