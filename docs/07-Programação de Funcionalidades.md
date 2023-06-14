@@ -30,6 +30,14 @@ O dashboard do sistema de Estoque Fácil apresenta um resumo das principais info
 
 Os usuários podem monitorar a quantidade disponível de cada item, acompanhar as movimentações recentes, analisar os custos e avaliar o valor gerado pelas vendas. Essas informações permitem uma tomada de decisão informada e estratégica para o gerenciamento eficiente do estoque e o crescimento do negócio.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/0a2cc308-eb06-45e9-9bd6-e421a80bcd6f)
+
+### Artefatos da funcionalidade
+   * dashboard-estoque.html
+   * dashboard-estoque.js
+   * dashboard-estoque.css
+   * logo_transparent.png
+
 # Cadastro de Produtos
 
 A funcionalidade "Cadastro de Produtos" é uma tela do sistema onde os usuários podem inserir informações sobre novos produtos. Os campos disponíveis são o nome do produto e a numeração. Além disso, a tela apresenta um botão "Cadastrar" que permite aos usuários salvar as informações e adicionar o produto ao sistema. Essa funcionalidade é essencial para manter um registro organizado e preciso dos produtos, facilitando o controle e o gerenciamento do estoque.
