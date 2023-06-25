@@ -9,7 +9,7 @@
 ## Projeto Estoque Fácil
 
 Estoque Fácil e marca do projeto:
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/f6d079b5-409e-4b2b-9c3a-dfc3353244ab)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/blob/main/src/pages/login-estoque/Imagens/logo_transparent.png?raw=true)
 
 ## Identidade Visual (Marca, Design)
 
