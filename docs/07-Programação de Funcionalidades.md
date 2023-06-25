@@ -74,10 +74,8 @@ A funcionalidade "Registro de Vendas do Produto" permite ao usuário registrar i
    * sl_043021_42650_09.jpg
 
 ## Instruções de acesso
-1.	Abra um navegador de Internet e informe a seguinte URL: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque.git
-2.	A tela de notícias é a primeira funcionalidade exibida pelo aplicativo.
-3.	Faça o download do arquivo do projeto (ZIP) ou clone do projeto no GitHub;
-4.	Descompacte o arquivo em uma pasta específica;
-5.	Abra o Visual Studio Code e execute o Live Server;
-6.	Abra um navegador de Internet e informe a seguinte URL:
-http://localhost:5500/login-estoque.html 
+1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/src/pages/cadastro-estoque/cadastro-estoque.html
+2.	A tela de cadastro é a primeira funcionalidade a ser exibida.
+3.	Realize o cadastro e em seguida clique sobre o link com a seguinte descrição: "Já possui cadastro? Faça login".
+4.	Na tela de login, basta inserir o mesmo usuário e senha previamente cadastrados e clicar no botão "ENTRAR". Em seguida, você será direcionado para a página principal (dashboard), onde encontrará informações gerais sobre o estoque. No entanto, para utilizar essa página adequadamente, é necessário primeiro cadastrar um novo produto e, em seguida, registrar suas entradas e saídas. No menu lateral, é possível navegar pelas demais páginas e acessar as telas de Cadastro de Produtos e Registro de Compra e Venda.
+
