@@ -6,24 +6,21 @@
 
 # Material de Apoio sobre a Apresentação de um Produto
 
-## Título do Projeto
+## Projeto Estoque Fácil
 
-Nome e marca do projeto
+Estoque Fácil e marca do projeto:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/127454796/f6d079b5-409e-4b2b-9c3a-dfc3353244ab)
 
 ## Identidade Visual (Marca, Design)
 
-O grupo deve ter o cuidado em utilizar figuras, imagens, e cores dentro do contexto da solução proposta, de forma a manter a temática do problema.
+A identidade visual do projeto Estoque Fácil é composta pela marca e design cuidadosamente desenvolvidos para transmitir uma imagem profissional e confiável.
 
-> **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
+A marca do Estoque Fácil é representada por colunas verticais em cores vibrantes, como amarelo, laranja, verde e azul. Essas cores foram selecionadas para transmitir uma sensação de energia, otimismo e frescor. As colunas são cortadas diagonalmente, formando dois triângulos equiláteros, com o lado esquerdo menor e o lado direito maior.
 
-## Conjunto de Slides (Estrutura)
+Essa combinação de formas geométricas equilibradas e cores chamativas resulta em uma identidade visual única e impactante. Os triângulos equiláteros representam estabilidade e equilíbrio, sugerindo uma abordagem organizada e precisa para o controle de estoque.
 
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
- 
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+Além da marca, o design da identidade visual do Estoque Fácil incorpora elementos modernos e sofisticados. Um triângulo invertido é posicionado no topo das colunas, adicionando um toque de elegância ao design. Esse elemento pode ser interpretado como um símbolo de estabilidade e completude.
+
+A identidade visual do Estoque Fácil foi projetada para transmitir profissionalismo e confiança aos clientes. A combinação de cores vibrantes, formas geométricas equilibradas e elementos sofisticados cria uma imagem distintiva e memorável.
+
+Em resumo, a identidade visual do Estoque Fácil é composta por uma marca vibrante e um design moderno, que transmitem uma imagem profissional e confiável. Essa identidade visual única destaca o projeto no mercado e reforça sua abordagem inovadora e eficiente na gestão de estoque.
