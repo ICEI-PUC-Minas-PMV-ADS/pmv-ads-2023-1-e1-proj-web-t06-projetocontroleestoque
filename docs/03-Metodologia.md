@@ -81,7 +81,7 @@ Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitos
 
  ### Sprint 4
   
-  Planejamento: O planejamento da Sprint 2 aborta definir o pano de Testes de Software e o registro de Testes de Software
+  Planejamento: O planejamento da Sprint 2 aborta definir o plano de Testes de Software e o registro de Testes de Software
     
   Execução: Para conclusão desta sprint foi preciso concluir o desenvolvimento das demais funcionalidades do site e testá-las. Desenvolvemos 5 funcionalidades, sendo elas: Login (HTML e CSS já trabalhados na sprint anterior), Cadastro de Produtos, Registro de Compra de produtos, Registro de Venda de Produtos e Dashboard (página inicial com todas as informações gerais do site). Também fizemos algumas melhorias na questão visual das telas de Login e de Cadastro, achamos que poderíamos fazer algo melhor, incluímos uma logo e deixamos a aparência um pouco mais limpa e uniforme. Continuamos a trabalhar com JSON e o LocalStorage para o desenvolvimento das outras demais funcionalidades, inserindo e resgatando dados através do armazenamento local para tornar nosso site funcional e capz de interagir com o usuário. Para o plano de testes nós, da equipe, nos divimos e testamos cada uma das funcionalidades. Identificamos alguns pontos para melhoria e pretendemos implementá-las para a próxima sprint. 
   
@@ -101,11 +101,19 @@ Product backlog: 01-Documentação de Contexto; 02-Especificação de requisitos
     
  ### Sprint 5
   
-  Planejamento: O planejamento da Sprint 2 aborta definir a implantação da solução e a apresentação do Projeto
+  Planejamento: O planejamento da Sprint 2 aborta definir a implantação da solução e a apresentação do Projeto.
     
-  Execução:
+  Execução: Para a conclusão desta sprint, foi necessário planejar a apresentação do projeto e definir a implementação da solução. Optamos por hospedar o site no GitHub Pages, pois consideramos essa opção mais simples e eficiente. Além disso, criamos um pequeno vídeo de aproximadamente 3 minutos, no qual apresentamos nossa solução utilizando slides que resumem os pontos principais da nossa aplicação. Tanto o vídeo quanto os slides estão disponíveis na pasta "presentation".
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/f82e6a93-dc1a-4648-8513-7bb4702d058f)
     
   Evidências:
+  
+  *Vídeo de apresentação elaborado durante essa Sprint:* 
+  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/e89845cc-bc89-4361-a0d1-d5fc9835ef70)
+
+  Demais evidências: 10-Apresentação do Projeto.
 
 ### Ferramentas
 
