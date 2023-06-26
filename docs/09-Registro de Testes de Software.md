@@ -162,6 +162,12 @@ Para este teste diminuí a janela para representar a tela de um celular na verti
 
 ## Dashboard
 
+**Testes de armazenamento de dados:**
+
+Para esse teste, cadastrei alguns produtos e cliquei com o botão direito do mouse sobre a página. Em seguida, selecionei a opção "Inspecionar" e verifiquei se os dados que cadastrei estavam sendo armazenados corretamente. O teste foi um sucesso, como pode ser observado no print logo abaixo.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t06-projetocontroleestoque/assets/122751654/93fb571e-c6fc-44e5-8f08-1e4cd62b275e)
+
 **Testes de navegação:**
 
 Para testar se a navegação da página estava funcionando corretamente cliquei sobre todos os links dispostos na página e fui direcionada para as páginas correspondentes sem que houvesse nenhum erro, logo, o teste foi bem sucedido. Nas imagens logo abaixo cliquei sobre a opção "CADASTRAR NOVOS PRODUTOS" e como podemos ver fui redirecionada para a página de cadastro de produtos.
