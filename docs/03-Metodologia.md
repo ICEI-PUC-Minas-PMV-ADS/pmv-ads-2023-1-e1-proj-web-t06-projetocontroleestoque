@@ -121,7 +121,7 @@ As ferramentas empregadas no projeto são:
 
 Repositório: GitHub
 
-Editor de código:
+Editor de código: VsCode
 
 Ferramentas de comunicação: Whatsapp, Microsoft Teams
 
